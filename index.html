@@ -37,6 +37,18 @@
 
     $("#footer").load("footer.php"); 
   });
+      
+      $(function(){
+    $('.dropdown').hover(function() {
+        $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
+    },
+    function() {
+        $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
+    });
+});
+
+     
+
   </script> 
     
     <style>
@@ -115,8 +127,8 @@ border-top-right-radius: 2px;
                <img alt="" src="images/iiituna.jpeg" align="right" style="height: 120px;">
           </div>
           <div class="col-md-4"></div>
-              <div class="logo col-md-6 col-sm-6"> <h2>
-          Indian Institute of Information Technology ,Una(H.P) </h2><h3><span> भारतीय सूचना 
+              <div class="col-md-6 col-sm-6"><h2>Indian Institute of Information Technology,Una </h2>
+                  <h3><span> भारतीय सूचना 
   प्रौद्योगिकी संस्थान ऊना  </span></h3>
       </div>
         
@@ -128,7 +140,7 @@ border-top-right-radius: 2px;
 
 
 
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-inverse" style="padding-left: 9%">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
@@ -143,8 +155,8 @@ border-top-right-radius: 2px;
         <li class="active"><a href="index.html">Home</a></li>
        
     
-     <li class="dropdown"><a data-toggle="dropdown"
-       class="dropdown-toggle" href="#dropdown"> About US <b class="caret"></b></a>
+     <li class="dropdown" ><a data-toggle="dropdown"
+       class="dropdown-toggle" href="#dropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> About US <b class="caret"></b></a>
        <ul class="dropdown-menu">
          <li><a data-toggle="tab" href="#dropdown1"><a href="aboutus.html">About IIIT Una</a></a></li>
          <li><a data-toggle="tab" href="#dropdown1"><a href="mission.html">Vision & Mission</a></a></li>
@@ -159,7 +171,7 @@ border-top-right-radius: 2px;
         
     
      <li class="dropdown"><a data-toggle="dropdown"
-       class="dropdown-toggle" href="#"> Departments <b class="caret"></b></a>
+       class="dropdown-toggle" href="#" > Departments <b class="caret"></b></a>
        <ul class="dropdown-menu">
          <li><a data-toggle="tab" href="#dropdown1"><a href="cse/index.html">Computer Science and Engineering</a></a></li>
          <li><a data-toggle="tab" href="#dropdown2"><a href="ece/index.html">Electronics & Communication Engineering</a></li>
