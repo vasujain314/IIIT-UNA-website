@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+
+<head>
+  
+  <link rel="stylesheet" href="./css/bootstrap.min.css">  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+ 
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script type='text/javascript' src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <script type='text/javascript' src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+<![endif]-->
+
+  
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="./js/respond.min.js"></script>  
+
+<script type='text/javascript' src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
+<script type='text/javascript' src="assets/js/css3-mediaqueries.js"></script>  
+  <script src="./js/jquery.js"></script>
+
+  
+  
+  
+  
+  
+  
+  <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+<script> 
+$(function(){
+  $("#header").load("header.php"); 
+  $("#footer").load("footer.php"); 
+});
+</script> 
+  
+  
+  
+  
+  
+  
+  
+  <style>
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      
+      padding: 25px;
+    }
+    
+  .carousel-inner img {
+      width: 100%; /* Set width to 100% */
+      margin: auto;
+      min-height:200px;
+  }
+
+  topb
+  {
+  height: 200px;
+  }
+.header .top-bar {
+  background: #2f506c;
+}
+.header .top-bar .search-form {
+  padding: 10px 0;
+}
+.header .top-bar .search-form .form-group {
+  display: inline-block;
+  margin-bottom: 0;
+  vertical-align: middle;
+}
+.header .social-icons li.row-end {
+  margin-right: 0;
+}
+.header .social-icons a {
+  background: #27435a;
+}
+.header .social-icons a:hover {
+  background: #6091ba;
+}
+.header .social-icons a:hover .fa {
+  color: #fff;
+}
+.header .social-icons a .fa {
+  color: rgba(255, 255, 255, 0.4);
+}
+.header .social-icons a .fa:before {
+  font-size: 18px;
+  text-align: center;
+  padding: 0;
+}
+.header .header-main {
+  padding: 30px 0;
+}
+.header h1.logo {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.header .menu-top {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+  float: right;
+}
+.header .menu-top li {
+  list-style: none;
+  float: left;
+  font-size: 11px;
+  font-family: 'open sans', arial, sans-serif;
+}
+.header .menu-top li:last-child a {
+  padding-right: 0;
+}
+.header .menu-top li.divider a {
+  border-right: 1px solid #c3c3c3;
+}
+.header .menu-top li a {
+  display: inline-block;
+  color: #777777;
+  padding: 0px 10px;
+}
+.header .menu-top li a:hover {
+  color: #6091ba;
+}
+.header .contact {
+  font-size: 20px;
+  font-family: 'open sans', arial, sans-serif;
+  font-weight: 300;
+  margin-top: 10px;
+}
+.header .contact p {
+  float: left;
+  margin-bottom: 0;
+}
+.header .contact p.phone {
+  margin-right: 30px;
+}
+.header .contact p a {
+  color: #444444;
+}
+.header .contact .fa {
+  color: #6091ba;
+  margin-right: 8px;
+  font-size: 18px;
+  position: relative;
+  top: 1px;
+}
+.header .contact .fa.fa-phone {
+  font-size: 22px;
+  top: 2px;
+}
+.header .search-form {
+  border: 0;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+.header .search-form .form-control {
+  width: 260px;
+  background: #f5f5f5;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+}
+.header .search-form .form-control:focus {
+  background: #fff;
+  border-color: #6091ba;
+}
+
+
+
+
+.bodyback {
+    background-image: url("images/paper.gif");
+    
+	background-position: center; 
+	background-color: #cccccc;
+}
+
+
+.divborder{
+    border: 2px solid #a1a1a1;
+    padding: 0px 0px; 
+    background: #dddddd;
+    height: 300px;
+	
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+
+.divscroll{
+    
+    padding: 5px 5px; 
+    background: #dddddd;
+    height: 263px;
+	overflow-y: scroll;
+	text-align:left;
+	font-size:15px;
+    }
+	
+	
+	
+.divback{
+
+background-color: lightblue;
+color:#0000FF;
+font-size:20px;
+font-weight:bold;
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;
+border: 1px solid #a1a1a1;
+text-align: center;
+}	
+	
+	
+.backcolour{
+background: #dddddd;
+padding: 10px 10px;
+text-align:justify;
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px; 
+border: 2px solid #a1a1a1;
+}
+		
+.divborders{
+    border: 2px solid #a1a1a1;
+    padding: 0px 0px; 
+    background: #dddddd;
+    height: 430px;
+	
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+	
+   }		
+		
+	
+	
+	
+
+  /* Hide the carousel text when the screen is less than 600 pixels wide */
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; 
+    }
+  }
+  </style>
+</head>
+<body class="bodyback">
+
+
+
+
+<div id="header"></div>
+
+<br>
+  <div class="container">
+<div class="row">
+  <div class="col-sm-9">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+		<li data-target="#myCarousel" data-slide-to="2"></li>
+		<li data-target="#myCarousel" data-slide-to="3"></li>
+        
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+	          <img src="./images/front.jpg" alt="Image">
+          <div class="carousel-caption">
+            
+          </div>      
+        </div>
+
+        <div class="item">
+          <img src="./images/ece1.jpg" alt="Image">
+          <div class="carousel-caption">
+          </div>      
+        </div>
+		<div class="item">
+          <img src="./images/cse.jpg" alt="Image">
+          <div class="carousel-caption">
+          </div>      
+        </div>
+                
+		<div class="item">
+          <img src="./images/cc.jpg" alt="Image">
+          <div class="carousel-caption">
+          </div>      
+        </div>
+      </div>
+
+      <!-- Left and right controls -->
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+  
+   <div class="col-sm-3">
+     <div class="divborders">
+     	 <div class="divback">
+IIITU Events
+  </div>
+	 	 
+	<marquee behavior="scroll" direction="up" height="380" onmouseover="this.stop();" onmouseout="this.start();" scrollamount="2"> 
+  <ul>
+  <li><a target="_blank" href="documents/checklist1.doc"> B.Tech. 1st semester registration 22 to 26 July, 2017 (Documents check list)<img src="images/tnew.gif" alt="" /></a></li>
+   <li> <a href="documents/regform.doc"> Registration Form <img src="images/tnew.gif" alt="" /></a></li>
+  </ul> 
+
+</marquee>
+
+</div>
+
+</div>
+  
+   	<br>
+       
+</div>
+</div>
+
+<br> 
+
+
+  <div class="container">
+<div class="row">
+  <div class="col-sm-12">
+
+
+<div class="backcolour"> <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" scrollamount="5">
+
+<a href="documents/Faculty-Rec.-IIT-Una.pdf"><img src="images/tnew.gif" alt="" />
+Corrigendum - Faculty Recruitment for IIIT Una </a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="documents/iiituna_faculty_recruit_2017.pdf"><img src="images/tnew.gif" alt="" />
+Faculty positions for the post of Professor, Associate Professor and Assistant Professor on regular/deputation basis.</a></marquee></div>
+</div>
+</div>
+</div>
+
+<br>
+<div class="container">
+
+<div class="col-sm-3">
+  
+  
+ <div class="divborder">
+     
+	 <div class="divback">
+Quick Links
+  </div>
+	 
+	<div class="divscroll"> 
+	 
+  <ul>
+  <li><a href="rti.html">RTI Section </a></li>
+  <li><a target="_blank" href="http://14.139.56.15/result.htm">Result May 2017 <img src="images/tnew.gif" alt="" /></a></li>
+  <li><a target="_blank" href="http://goidirectory.nic.in/index.php">Government of India</a></li>
+  <li><a target="_blank" href="https://eoffice.nith.ac.in/">E-Office</a></li>
+  <li><a href="grievances.html">Grievance Portal </a></li>
+    <li><a target="_blank" href="images/iyd.jpg">IDY 2017</a></li>
+    
+  
+  
+</ul> 
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+<div class="col-sm-3">
+  
+  
+ <div class="divborder">
+     
+	 <div class="divback">
+Latest News
+  </div>
+	 
+	<div class="divscroll"> 
+	 
+  <ul>
+  <li><a target="_blank" href="documents/Faculty-Rec.-IIT-Una.pdf"> Corrigendum - Faculty Recruitment for IIIT Una    <img src="images/tnew.gif" alt="" />  </a></li>
+  <li><a target="_blank" href="documents/iiituna_faculty_recruit_2017.pdf">
+Faculty positions for the post of Professor, Associate Professor and Assistant Professor on regular/deputation basis.<img src="images/tnew.gif" alt="" /> </a></li>
+ 
+  <li><a target="_blank" href="http://mhrd.gov.in/visaka/">Vittiya Saksharta Abhiyan</a></li>
+  
+ 
+</ul> 
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="col-sm-3">
+  
+  
+ <div class="divborder">
+     
+	 <div class="divback">
+Students Corner
+  </div>
+	 
+	<div class="divscroll"> 
+	 
+  <ul>
+  <li><a target="_blank" href="documents/checklist1.doc"> B.Tech. 1st semester registration 22 to 26 July, 2017 (Documents check list)<img src="images/tnew.gif" alt="" /></a>
+    <br> <a href="documents/regform.doc"> Registration Form <img src="images/tnew.gif" alt="" /></a></li>
+<li><a target="_blank" href="documents/iiitufee_17-18.pdf"> B.Tech 1st semester fee for session 2017-18 for new students.<img src="images/tnew.gif" alt="" /></a></li>
+
+ <li><a target="_blank" href="documents/swachta-abhiyan.pdf">Swachhta Action Plan of Ministry of HRD</a></li>
+  <li><a target="_blank" href="https://www.vidyalakshmi.co.in">Vidya Lakshmi Portal for Scholarship</a></li>
+  <li><a target="_blank" href="http://scholarships.gov.in/">National Scholarship Portal</a></li>
+  <li><a target="_blank" href="http://www.amanmovement.org/">  Online facility for Anti Ragging affidavits  </a></li>
+  <li><a target="_blank" href="documents/gap-study.pdf">Format of Affidavit of study gap</a></li>
+  <li><a target="_blank" href="documents/PH_Proforma.pdf"> Performa for Person with Disability (PwD) Certificate</a></li>
+  <li><a target="_blank" href="documents/scstcerti.pdf">Performa for Schedule Cast (SC)/Schedule Tribe (ST) Certificate </a></li>
+  <li><a target="_blank" href="documents/3-4.pdf">Performa for Other Backward Class (OBC) Certificate & Declaration/Undertaking for OBC Candidate Only</a></li>
+</ul> 
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div class="col-sm-3">
+  
+  
+ <div class="divborder">
+     
+	 <div class="divback">
+Gallery
+  </div>
+  <div>
+	<marquee behavior="alternate" direction="left" onmouseover="this.stop();" onmouseout="this.start();" scrollamount="3" >
+	<img src="./images/nit1.jpg" height="263" width="250">
+	
+	<img src="./images/nit2.jpg" height="263" width="250">
+	<img src="./images/nit3.jpg" height="263" width="250">
+	<img src="./images/nit2.jpg" height="263" width="250">
+	
+	</marquee>
+	
+	</div>
+	
+	
+	
+	
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+</div>
+
+</div>
+<br>
+<div id="footer">    </div>
+
+<br>
+
+
+</body>
+</html>
