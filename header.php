@@ -32,7 +32,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12">
-                    <div class="logo" ><a href="index.html"><img  src="images/iiitulogo.png" alt=""></a></div>
+                    <div class="logo"><a href="index.html"><img src="images/iiitulogo.png" alt=""></a></div>
                 </div>
                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12" style="padding-left: 12%;margin-top: 3%;">
                     <h2>Indian Institute of Information Technology,Una </h2>
@@ -60,9 +60,9 @@
                                     <ul>
                                         <li><a href="aboutus.html">About IIIT UNA</a></li>
                                         <li><a href="mission.html">Vision &amp; Misson</a></li>
-                                        <li><a href="blog-default.html">Administration</a></li>
-                                        <li><a href="blog-default.html">Director's Desk</a></li>
-                                        <li><a href="blog-default.html">Campus</a></li>
+                                        <li><a href="adminstrative.html">Administration</a></li>
+                                        <li><a href="directordesk.html">Director's Desk</a></li>
+                                        <li><a href="campus.html">Campus</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-sub" ><a href="#">Departments</a>
