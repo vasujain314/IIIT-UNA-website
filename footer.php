@@ -50,7 +50,7 @@
             Himachal pradesh<br>
             India<br>
             <i class="fa fa-phone fa-lg"></i>: +91 375893573787<br>
-            <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:name@gmail.com" class="footer-title" style="font-size:16px;">IIITUNA@gmail.com</a>
+            <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:name@gmail.com" class="footer-title" style="font-size:16px;">feedback@iiitu.ac.in</a>
           </address>
         </div>
         <div class="col-sm-4 align-self-center">
