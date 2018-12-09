@@ -85,12 +85,12 @@
         <script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?key=AtzBR8MzztKkXstzT92ik-oi87ZF4kiY94t7a1awKWWD0gnnZVe90AH7QWux7QFL&callback=loadMapScenario' async defer></script>
           </div>
         </div>
-    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" >
+    <div class="col-lg-3 col-md-3 col-sm-6" >
        <ul  class="list-unstyled">
-            <li><a style="padding-left:30%; font-size:20px;" href="contact.html" class="footer-title">Contact us</a></li>
-            <li><a style="padding-left:30%;font-size:20px;" href="tender.html" class="footer-title">Tender</a></li>
-            <li><a style="padding-left:30%;font-size:20px;" href="academic.html" class="footer-title">Academics</a></li>
-            <li><a style="padding-left:30%;font-size:20px;" href="recruitment.html" class="footer-title">Recruitment</a></li>
+            <li><a style=" font-size:20px;" href="contact.html" class="footer-title">Contact us</a></li>
+            <li><a style="font-size:20px;" href="tender.html" class="footer-title">Tender</a></li>
+            <li><a style="font-size:20px;" href="academic.html" class="footer-title">Academics</a></li>
+            <li><a style="font-size:20px;" href="recruitment.html" class="footer-title">Recruitment</a></li>
           </ul>
     </div>
   </div>
