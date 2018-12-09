@@ -2,7 +2,6 @@
 <head>
 	<style>
   .footer{
-  background-color: white;
   position: relative;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -41,17 +40,17 @@
             <li style=" padding: 7px;"><strong>LINKS</strong></li>
             <li><a style=" padding: 7px;" href="index.html">Home</a></li>
             <li><a style=" padding: 7px;" href="contact.html">About</a></li>
-            <li><a style=" padding: 7px;" href="feedback.html">feedback</a></li>
+            <li><a style=" padding: 7px;" href="cse-dept.html">Departments</a></li>
           </ul>
         </div>
         <div class="col-sm-3">
           <h5><strong>Our Address</strong></h5>
           <address>
-            FF-126,Paras Trinity<br>
-            sector 63, Gurgaon<br>
-            Delhi-NCR<br>
-            <i class="fa fa-phone fa-lg"></i>: +91 704-263-3055<br>
-            <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:alrightdentalclinic@gmail.com">alrightdentalclinic@gmail.com</a>
+            Indian Institute Of Information Technology,Una<br>
+            Himachal pradesh<br>
+            India<br>
+            <i class="fa fa-phone fa-lg"></i>: +91 375893573787<br>
+            <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:name@gmail.com">IIITUNA@gmail.com</a>
           </address>
         </div>
         <div class="col-sm-4 align-self-center">
@@ -63,20 +62,20 @@
             function loadMapScenario() {
                 var map = new Microsoft.Maps.Map(document.getElementById('myMap'), {
                     /* No need to set credentials if already passed in URL */
-                    center: new Microsoft.Maps.Location(28.421883,77.109078),
+                    center: new Microsoft.Maps.Location(31.4808,76.1991),
                     mapTypeId: Microsoft.Maps.MapTypeId.birdseye });
-                var pushpin = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(28.421883,77.109078), { title: 'alright dental' });
-                var polyline = new Microsoft.Maps.Polyline([new Microsoft.Maps.Location(28.421883,77.109078),
-                    new Microsoft.Maps.Location(28.421883,77.109078),
-                    new Microsoft.Maps.Location(28.421883,77.109078),
-                    new Microsoft.Maps.Location(28.421883,77.109078),
-                    new Microsoft.Maps.Location(28.421883,77.109078),
-                    new Microsoft.Maps.Location(28.421883,77.109078),
-                    new Microsoft.Maps.Location(28.421883,77.109078),
-                    new Microsoft.Maps.Location(28.421883,77.109078),
-                    new Microsoft.Maps.Location(28.421883,77.109078),
-                    new Microsoft.Maps.Location(28.421883,77.109078),
-                    new Microsoft.Maps.Location(28.421883,77.109078)], { strokeColor: 'lightblue', strokeThickness: 5 });
+                var pushpin = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(31.4808,76.1991), { title: 'IIIT UNA' });
+                var polyline = new Microsoft.Maps.Polyline([new Microsoft.Maps.Location(31.4808,76.1991),
+                    new Microsoft.Maps.Location(31.4808,76.1991),
+                    new Microsoft.Maps.Location(31.4808,76.1991),
+                    new Microsoft.Maps.Location(31.4808,76.1991),
+                    new Microsoft.Maps.Location(31.4808,76.1991),
+                    new Microsoft.Maps.Location(31.4808,76.1991),
+                    new Microsoft.Maps.Location(31.4808,76.1991),
+                    new Microsoft.Maps.Location(31.4808,76.1991),
+                    new Microsoft.Maps.Location(31.4808,76.1991),
+                    new Microsoft.Maps.Location(31.4808,76.1991),
+                    new Microsoft.Maps.Location(31.4808,76.1991)], { strokeColor: 'lightblue', strokeThickness: 5 });
                 var layer = new Microsoft.Maps.Layer();
                 layer.add([pushpin, polyline]);
                 map.layers.insert(layer);
@@ -89,9 +88,9 @@
     <div class="col-sm-3" >
        <ul  class="list-unstyled">
             <li><a style=" padding: 7px;" href="contact.html">Contact us</a></li>
-            <li><a style=" padding: 7px;" href="team.html">Meet our team</a></li>
-            <li><a style=" padding: 7px;" href="quality.html">Quality</a></li>
-            <li><a style=" padding: 7px;" href="plans.html">alright plans</a></li>
+            <li><a style=" padding: 7px;" href="tender.html">Tender</a></li>
+            <li><a style=" padding: 7px;" href="academic.html">Academics</a></li>
+            <li><a style=" padding: 7px;" href="recruitment.html">Recruitment</a></li>
           </ul>
     </div>
   </div>
@@ -102,9 +101,9 @@
             <div class="row">
                 <div class="tiny-footer">
                     
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="tiny-section-social">
-                            <div class="">
+                            <div>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
@@ -114,6 +113,10 @@
                                 </ul>
                             </div>
                         </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6">
+                        Made with &hearts; by VASU,VIPUL,DEV.
+
                     </div>
                 </div>
             </div>
