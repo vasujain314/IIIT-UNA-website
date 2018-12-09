@@ -82,8 +82,7 @@
  
                                     <li><a href="gallery.html">Gallery</a>
                                         <li><a href="contact-us.html">LOGIN @IIIT UNA</a>
-                                    <li><a href="contact-us.html">Gallery</a>
-                                        <li><a href="contact-us.html">LOGIN @IIIT UNA</a>
+                                  
                                
 
                                             <li><a href="contact-us.html">हिन्दी</a>
