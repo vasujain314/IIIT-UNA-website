@@ -74,9 +74,9 @@
                                     </ul>
                                 </li>
                                 
-                                <li><a href="about.html">Academics</a></li>
+                                <li><a href="academic.html">Academics</a></li>
                                 <li><a href="tender.html">Tenders</a></li>
-                                <li><a href="webhosting.html">Recuritment</a></li>
+                                <li><a href="recruitment.html">Recuritment</a></li>
                                 
                                 
  
