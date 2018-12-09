@@ -67,9 +67,9 @@
                                 </li>
                                 <li class="has-sub" ><a href="#">Departments</a>
                                     <ul>
-                                        <li><a href="testimonial.html">Computer Science</a> </li>
-                                        <li><a href="404-page.html">Information Techology</a> </li>
-                                        <li><a href="faq-tab.html">Electronics &amp; Communication</a> </li>
+                                        <li><a href="cse-dept.html">Computer Science</a> </li>
+                                        <li><a href="it-dept.html">Information Techology</a> </li>
+                                        <li><a href="ece-dept.html">Electronics &amp; Communication</a> </li>
                                         
                                     </ul>
                                 </li>
@@ -79,8 +79,8 @@
                                 <li><a href="webhosting.html">Recuritment</a></li>
                                 
                                 
-                                    <li><a href="contact-us.html">Gallery</a>
-                                        <li><a href="contact-us.html">LOGIN @IIIT UNA</a>
+                                    <li><a href="gallery.html">Gallery</a>
+                                        <li><a href="mailto:iiit@gmail.com">LOGIN @IIIT UNA</a>
                                             <li><a href="contact-us.html">हिन्दी</a>
                                 </li>
                             </ul>
