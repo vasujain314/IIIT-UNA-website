@@ -87,10 +87,10 @@
         </div>
     <div class="col-lg-3 col-md-3 col-sm-6" >
        <ul  class="list-unstyled">
-            <li><a style=" font-size:20px;" href="contact.html" class="footer-title">Contact us</a></li>
-            <li><a style="font-size:20px;" href="tender.html" class="footer-title">Tender</a></li>
-            <li><a style="font-size:20px;" href="academic.html" class="footer-title">Academics</a></li>
-            <li><a style="font-size:20px;" href="recruitment.html" class="footer-title">Recruitment</a></li>
+            <li><a style="padding-left:30%;font-size:20px;" href="contact.html" class="footer-title">Contact us</a></li>
+            <li><a style="padding-left:30%;font-size:20px;" href="tender.html" class="footer-title">Tender</a></li>
+            <li><a style="padding-left:30%;font-size:20px;" href="academic.html" class="footer-title">Academics</a></li>
+            <li><a style="padding-left:30%;font-size:20px;" href="recruitment.html" class="footer-title">Recruitment</a></li>
           </ul>
     </div>
   </div>
