@@ -35,22 +35,22 @@
  <footer class="footer ">
     <div class="container" style="color: white;">
       <div class="row">
-        <div class="col-sm-2">
+        <div class="col-lg-2 col-md-2 col-sm-6 col-xs-12">
+            <h3 class="footer-title">Quick Links</h3>
           <ul  class="list-unstyled">
-            <li style=" padding: 7px;"><strong>LINKS</strong></li>
-            <li><a style=" padding: 7px;" href="index.html">Home</a></li>
-            <li><a style=" padding: 7px;" href="contact.html">About</a></li>
-            <li><a style=" padding: 7px;" href="cse-dept.html">Departments</a></li>
+            <li><a  href="index.html" class="footer-title" style="font-size=16px;">Home</a></li>
+            <li><a  href="contact.html" class="footer-title"style="font-size=16px;">About</a></li>
+            <li><a  href="cse-dept.html" class="footer-title"style="font-size=16px;">Departments</a></li>
           </ul>
         </div>
         <div class="col-sm-3">
-          <h5><strong>Our Address</strong></h5>
+          <h5><strong class="footer-title">Our Address</strong></h5>
           <address>
             Indian Institute Of Information Technology,Una<br>
             Himachal pradesh<br>
             India<br>
             <i class="fa fa-phone fa-lg"></i>: +91 375893573787<br>
-            <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:name@gmail.com">IIITUNA@gmail.com</a>
+            <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:name@gmail.com" class="footer-title" style="font-size:16px;">IIITUNA@gmail.com</a>
           </address>
         </div>
         <div class="col-sm-4 align-self-center">
@@ -85,12 +85,12 @@
         <script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?key=AtzBR8MzztKkXstzT92ik-oi87ZF4kiY94t7a1awKWWD0gnnZVe90AH7QWux7QFL&callback=loadMapScenario' async defer></script>
           </div>
         </div>
-    <div class="col-sm-3" >
+    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" >
        <ul  class="list-unstyled">
-            <li><a style=" padding: 7px;" href="contact.html">Contact us</a></li>
-            <li><a style=" padding: 7px;" href="tender.html">Tender</a></li>
-            <li><a style=" padding: 7px;" href="academic.html">Academics</a></li>
-            <li><a style=" padding: 7px;" href="recruitment.html">Recruitment</a></li>
+            <li><a style="padding-left:30%; font-size:20px;" href="contact.html" class="footer-title">Contact us</a></li>
+            <li><a style="padding-left:30%;font-size:20px;" href="tender.html" class="footer-title">Tender</a></li>
+            <li><a style="padding-left:30%;font-size:20px;" href="academic.html" class="footer-title">Academics</a></li>
+            <li><a style="padding-left:30%;font-size:20px;" href="recruitment.html" class="footer-title">Recruitment</a></li>
           </ul>
     </div>
   </div>
