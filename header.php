@@ -60,9 +60,9 @@
                                     <ul>
                                         <li><a href="aboutus.html">About IIIT UNA</a></li>
                                         <li><a href="mission.html">Vision &amp; Misson</a></li>
-                                        <li><a href="blog-default.html">Administration</a></li>
-                                        <li><a href="blog-default.html">Director's Desk</a></li>
-                                        <li><a href="blog-default.html">Campus</a></li>
+                                        <li><a href="adminstrative.html">Administration</a></li>
+                                        <li><a href="directordesk.html">Director's Desk</a></li>
+                                        <li><a href="campus.html">Campus</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-sub" ><a href="#">Departments</a>
