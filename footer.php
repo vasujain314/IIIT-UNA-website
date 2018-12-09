@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <head>
 	<style>
-
+  .footer{
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  bottom: 0px;
+}  
 
 
 
@@ -27,15 +32,15 @@
     <link href="css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
- <footer class="footer" style="padding-top: 6px; padding-bottom: 6px;">
+ <footer class="footer ">
     <div class="container" style="color: white;">
       <div class="row">
         <div class="col-lg-2 col-md-2 col-sm-6 col-xs-12">
             <h3 class="footer-title">Quick Links</h3>
           <ul  class="list-unstyled">
-            <li><a  href="index.html" class="footer-title" style="font-size=13px;">Home</a></li>
-            <li><a  href="contact.html" class="footer-title"style="font-size=13px;">About</a></li>
-            <li><a  href="cse-dept.html" class="footer-title"style="font-size=13px;">Departments</a></li>
+            <li><a  href="index.html" class="footer-title" style="font-size=16px;">Home</a></li>
+            <li><a  href="contact.html" class="footer-title"style="font-size=16px;">About</a></li>
+            <li><a  href="cse-dept.html" class="footer-title"style="font-size=16px;">Departments</a></li>
           </ul>
         </div>
         <div class="col-sm-3">
@@ -82,10 +87,10 @@
         </div>
     <div class="col-lg-3 col-md-3 col-sm-6" >
        <ul  class="list-unstyled">
-            <li><a style="padding-left:30%;font-size:13px;" href="contact.html" class="footer-title">Contact us</a></li>
-            <li><a style="padding-left:30%;font-size:13px;" href="tender.html" class="footer-title">Tender</a></li>
-            <li><a style="padding-left:30%;font-size:13px;" href="academic.html" class="footer-title">Academics</a></li>
-            <li><a style="padding-left:30%;font-size:13px;" href="recruitment.html" class="footer-title">Recruitment</a></li>
+            <li><a style="padding-left:30%;font-size:20px;" href="contact.html" class="footer-title">Contact us</a></li>
+            <li><a style="padding-left:30%;font-size:20px;" href="tender.html" class="footer-title">Tender</a></li>
+            <li><a style="padding-left:30%;font-size:20px;" href="academic.html" class="footer-title">Academics</a></li>
+            <li><a style="padding-left:30%;font-size:20px;" href="recruitment.html" class="footer-title">Recruitment</a></li>
           </ul>
     </div>
   </div>
