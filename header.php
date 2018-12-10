@@ -76,12 +76,12 @@
                                 
                                 <li><a href="academic.html">Academics</a></li>
                                 <li><a href="tender.html">Tenders</a></li>
-                                <li><a href="recruitment.html">Recuritment</a></li>
+                                <li><a href="recuritment.html">Recuritment</a></li>
                                 
                                 
  
                                     <li><a href="gallery.html">Gallery</a>
-                                        <li><a href="contact-us.html">LOGIN @IIIT UNA</a>
+                                        <li><a href="https://gmail.com">LOGIN @IIIT UNA</a>
                                   
                                
 
