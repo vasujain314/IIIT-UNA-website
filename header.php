@@ -76,7 +76,7 @@
                                 
                                 <li><a href="academic.html">Academics</a></li>
                                 <li><a href="tender.html">Tenders</a></li>
-                                <li><a href="recruitment.html">Recuritment</a></li>
+                                <li><a href="recuritment.html">Recuritment</a></li>
                                 
                                 
  
