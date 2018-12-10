@@ -26,15 +26,13 @@
     <link href="css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
-
-
-   <div class="top-bar">
-        <div class="container">
+  <div class="top-bar">
+        <div class="container" style="padding-bottom: 0px;">
             <div class="row">
                 <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12">
                     <div class="logo"><a href="index.html"><img src="images/iiitulogo.png" alt=""></a></div>
                 </div>
-                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12" style="padding-left: 12%;margin-top: 3%;">
+                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12" style="padding-left: 12%;margin-top: 2%;">
                     <h2>Indian Institute of Information Technology,Una </h2>
                   <h3 style="padding-left: 11%;"><span> भारतीय सूचना 
   प्रौद्योगिकी संस्थान ऊना  </span></h3>
@@ -54,14 +52,13 @@
                         <div id="navigation">
                             <ul>
                                 <li class="active"><a href="index.html">Home</a></li>
-                               
-                                
                                 <li class="has-sub"><a href="#">About Us</a>
                                     <ul>
                                         <li><a href="aboutus.html">About IIIT UNA</a></li>
                                         <li><a href="mission.html">Vision &amp; Misson</a></li>
                                         <li><a href="adminstrative.html">Administration</a></li>
                                         <li><a href="directordesk.html">Director's Desk</a></li>
+                                        <li><a href="rti.html">RTI</a></li>
                                         <li><a href="campus.html">Campus</a></li>
                                     </ul>
                                 </li>
@@ -69,24 +66,15 @@
                                     <ul>
                                         <li><a href="cse-dept.html">Computer Science</a> </li>
                                         <li><a href="it-dept.html">Information Techology</a> </li>
-                                        <li><a href="ece-dept.html">Electronics &amp; Communication</a> </li>
-                                        
+                                        <li><a href="ece-dept.html">Electronics &amp; Communication</a> </li>   
                                     </ul>
                                 </li>
-                                
                                 <li><a href="academic.html">Academics</a></li>
                                 <li><a href="tender.html">Tenders</a></li>
                                 <li><a href="recuritment.html">Recuritment</a></li>
-                                
-                                
- 
-                                    <li><a href="gallery.html">Gallery</a>
-                                        <li><a href="https://gmail.com">LOGIN @IIIT UNA</a>
-                                  
-                               
-
-                                            <li><a href="contact-us.html">हिन्दी</a>
-                                </li>
+                                <li><a href="gallery.html">Gallery</a></li>
+                                <li><a href="https://gmail.com">LOGIN @IIIT UNA</a></li>
+                                <li><a href="contact-us.html">हिन्दी</a></li>
                             </ul>
                         </div>
                     </div>
@@ -95,7 +83,6 @@
             </div>
         </div>
     </div>
-  
   <script src="js/jquery.min.js" type="text/javascript"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
@@ -104,8 +91,5 @@
     <script type="text/javascript" src="js/sticky-header.js"></script>
     <script type="text/javascript" src="js/owl.carousel.min.js"></script>
     <script type="text/javascript" src="js/multiple-carousel.js"></script>
-  
- 
-
-
 </body>
+</html>

@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <head>
 	<style>
-  .footer{
-  position: relative;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  bottom: 0px;
-}  
-
-
-
 
 </style>
     <meta charset="utf-8">
@@ -32,28 +23,22 @@
     <link href="css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
- <footer class="footer ">
-    <div class="container" style="color: white;">
-      <div class="row">
-        <div class="col-lg-2 col-md-2 col-sm-6 col-xs-12">
-            <h3 class="footer-title">Quick Links</h3>
-          <ul  class="list-unstyled">
-            <li><a  href="index.html" class="footer-title" style="font-size=16px;">Home</a></li>
-            <li><a  href="contact.html" class="footer-title"style="font-size=16px;">About</a></li>
-            <li><a  href="cse-dept.html" class="footer-title"style="font-size=16px;">Departments</a></li>
-          </ul>
-        </div>
-        <div class="col-sm-3">
+
+
+
+ <footer class="footer" style="padding-top: 10px; padding-bottom: 10px;">
+    <div class="container" style="color: white;" >
+        <div class="col-lg-3">
           <h5><strong class="footer-title">Our Address</strong></h5>
           <address>
             Indian Institute Of Information Technology,Una<br>
             Himachal pradesh<br>
             India<br>
             <i class="fa fa-phone fa-lg"></i>: +91 375893573787<br>
-            <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:name@gmail.com" class="footer-title" style="font-size:16px;">feedback@iiitu.ac.in</a>
+            <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:director@iiitu.ac.in" class="footer-title" style="font-size:16px;">feedback@iiitu.ac.in</a>
           </address>
         </div>
-        <div class="col-sm-4 align-self-center">
+        <div class="col-lg-4 align-self-center">
           <div class="text-center align-self-center">
             <div id='printoutPanel'></div>
         
@@ -82,28 +67,36 @@
                 
             }
         </script>
-        <script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?key=AtzBR8MzztKkXstzT92ik-oi87ZF4kiY94t7a1awKWWD0gnnZVe90AH7QWux7QFL&callback=loadMapScenario' async defer></script>
-          </div>
+<script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?key=AtzBR8MzztKkXstzT92ik-oi87ZF4kiY94t7a1awKWWD0gnnZVe90AH7QWux7QFL&callback=loadMapScenario' async defer></script>
         </div>
-    <div class="col-lg-3 col-md-3 col-sm-6" >
+        </div>
+        <div class="col-lg-3" align="center" >
        <ul  class="list-unstyled">
-            <li><a style="padding-left:30%;font-size:20px;" href="contact.html" class="footer-title">Contact us</a></li>
-            <li><a style="padding-left:30%;font-size:20px;" href="tender.html" class="footer-title">Tender</a></li>
-            <li><a style="padding-left:30%;font-size:20px;" href="academic.html" class="footer-title">Academics</a></li>
-            <li><a style="padding-left:30%;font-size:20px;" href="recruitment.html" class="footer-title">Recruitment</a></li>
+            <li><a class="footer-title" style="font-size:20px;" href="tender.html" >Tender</a></li>
+            <li><a class="footer-title" style="font-size:20px;" href="contact.html" >Contact us</a></li>
+            <li><a class="footer-title" style="font-size:20px;" href="academic.html" >Academics</a></li>
+            <li><a class="footer-title" style="font-size:20px;" href="recruitment.html" >Recruitment</a></li>
           </ul>
     </div>
+        <div class="col-lg-2 " align="center">
+          <ul  class="list-unstyled">
+            <li><a  href="index.html" class="footer-title" style="font-size=16px;">Home</a></li>
+            <li><a  href="campus.html" class="footer-title"style="font-size=16px;">campus</a></li>
+            <li><a  href="admission.html" class="footer-title"style="font-size=16px;">Admissions</a></li>
+            <li><a  href="cse-dept.html" class="footer-title"style="font-size=16px;">Departments</a></li>
+            <li><a  href="directordesk.html" class="footer-title"style="font-size=16px;">Director's desk</a></li>
+            
+          </ul>
+        </div>
+    
   </div>
   </div>
   </footer>
         <!-- tiny-footer -->
-        <div class="container-fluid">
+        <div class="container-fluid tiny-footer" style="padding-top: 4px; padding-bottom: 4px; ">
             <div class="row">
-                <div class="tiny-footer">
-                    
-                    <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="col-lg-6">
                         <div class="tiny-section-social">
-                            <div>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
@@ -111,15 +104,12 @@
                                     <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                                     <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
                                 </ul>
-                            </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="col-lg-6" align="right">
                         Made with &hearts; by VASU,VIPUL,DEV.
-
                     </div>
                 </div>
-            </div>
             <!-- /. tiny-footer -->
         </div>
     </div>
