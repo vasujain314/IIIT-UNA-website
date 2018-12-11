@@ -64,8 +64,9 @@
                                 </li>
                                 <li class="has-sub" ><a href="#">Departments</a>
                                     <ul>
-                                        <li><a href="cse-dept.html">Computer Science</a> </li>
                                         <li><a href="it-dept.html">Information Techology</a> </li>
+                                        <li><a href="cse-dept.html">Computer Science</a> </li>
+                                        
                                         <li><a href="ece-dept.html">Electronics &amp; Communication</a> </li>   
                                     </ul>
                                 </li>
