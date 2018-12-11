@@ -66,7 +66,8 @@
                                         <li><a href="it-dept.html">Information Techology</a> </li>
                                         <li><a href="cse-dept.html">Computer Science</a> </li>
                                         
-                                        <li><a href="ece-dept.html">Electronics &amp; Communication</a> </li>   
+                                        <li><a href="ece-dept.html">Electronics &amp; Communication</a> </li>
+                                        <li><a href="#">School Of Basic Sciences</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="academic.html">Academics</a></li>
