@@ -73,7 +73,7 @@
                                 <li><a href="tender.html">Tenders</a></li>
                                 <li><a href="recuritment.html">Recuritment</a></li>
                                 <li><a href="gallery.html">Gallery</a></li>
-                                <li><a href="mailto:director@iiitu.ac.in">Login</a></li>
+                                <li><a href="grievances.html">Grievances</a></li>
                                 <li><a href="contact-us.html">हिन्दी</a></li>
                             </ul>
                         </div>
