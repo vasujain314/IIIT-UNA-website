@@ -29,7 +29,7 @@
 
  <footer class="footer" style="padding-top: 10px; padding-bottom: 10px;">
     <div class="container" style="color: white;" >
-        <div class="col-lg-3">
+        <div class="col-lg-3" style="padding-top:2.5%;">
           <h5><strong class="footer-title">Our Address</strong></h5>
           <address>
             Indian Institute Of Information Technology,Una<br>
@@ -71,7 +71,7 @@
 <script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?key=AtzBR8MzztKkXstzT92ik-oi87ZF4kiY94t7a1awKWWD0gnnZVe90AH7QWux7QFL&callback=loadMapScenario' async defer></script>
         </div>
         </div>
-        <div class="col-lg-3" align="center" >
+        <div class="col-lg-3" align="center" style="padding-top:2.5%;">
        <ul  class="list-unstyled">
             <li><a class="footer-title" style="font-size:20px;" href="tender.html" >Tender</a></li>
             <li><a class="footer-title" style="font-size:20px;" href="contact.html" >Contact us</a></li>
@@ -80,7 +80,7 @@
             <li><a class="footer-title" style="font-size:20px;" href="grievances.html" >Grievances portal</a></li>
           </ul>
     </div>
-        <div class="col-lg-2 " align="center">
+        <div class="col-lg-2 " align="center" style="padding-top:2.5%;">
           <ul  class="list-unstyled">
             <li><a  href="index.html" class="footer-title" style="font-size=16px;">Home</a></li>
             <li><a  href="campus.html" class="footer-title"style="font-size=16px;">campus</a></li>
