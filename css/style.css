@@ -375,7 +375,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     display: block;
     content: '/';
 }*/
-#navigation>ul>li.has-sub>a:before { position: absolute; right: 49px; font-family: FontAwesome; content: "\f107"; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
+#navigation>ul>li.has-sub>a:before { position: absolute; right: 49px; font-family: FontAwesome;  -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
 
 /*#navigation > ul > li.has-sub:hover > a:before {
  top: 23px;
