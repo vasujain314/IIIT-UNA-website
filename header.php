@@ -6,12 +6,13 @@
 
 <head>
   <title>Indian Institute of Information Technology Una</title>
+  <link rel="icon" type="image/jpg" href="images/iiitulogo.png" />
       <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+       <meta name="description" content="Indian institute of information technology,Una himachal pradesh,indian a deemed university by mhrd, an institute of national importance">
+    <meta name="keywords" content="UNA ,una,Himachal Pradesh,college,indian institue of information technology,hamirpur,nith ,nit,cse,it,ece">
     <title>Indian Institue Of Information Technoogy,UNA(H.P)</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -19,7 +20,6 @@
     <link href="css/style.css" rel="stylesheet">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-    <link href="css/owl.carousel.css" rel="stylesheet">
     <link href="css/owl.theme.default.css" rel="stylesheet">
     <!-- FontAwesome CSS -->
     <link rel="stylesheet" type="text/css" href="css/fontello.css">
