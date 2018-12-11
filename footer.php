@@ -7,9 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+        <meta name="description" content="Indian institute of information technology,Una himachal pradesh,indian a deemed university by mhrd, an institute of national importance">
+    <meta name="keywords" content="UNA ,una,Himachal Pradesh,college,indian institue of information technology,hamirpur,nith ,nit,cse,it,ece">
     <title>Indian Institue Of Information Technoogy,UNA(H.P)</title>
+    <link rel="icon" type="image/jpg" href="images/iiitulogo.png" />
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Style CSS -->
