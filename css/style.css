@@ -386,10 +386,10 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 #navigation ul ul li { top: 0px; height: 0; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
 #navigation li:hover>ul { left: auto; }
 #navigation.align-right li:hover>ul { left: auto; right: 0; }
-#navigation li:hover>ul>li { height: 64px; }
+#navigation li:hover>ul>li { height: 42px;}
 #navigation ul ul ul { margin-left: 100%; top: 0; }
 #navigation.align-right ul ul ul { margin-left: 0; margin-right: 100%; }
-#navigation ul ul li a { background-color: #da4f27; padding: 24px 20px; width: 216px; font-size: 14px; text-decoration: none; color: #fff; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; border-bottom: #c1401a 1px solid; margin-top: -1px; }
+#navigation ul ul li a { background-color: #da4f27; padding: 14px 20px; width: 216px; font-size: 14px; text-decoration: none; color: #fff; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; border-bottom: #c1401a 1px solid; margin-top: -1px; }
 #navigation ul ul li:first-child>a { border-top-right-radius: 0%; }
 #navigation ul ul li:last-child>a { border-bottom-right-radius: 0%px; border-bottom-left-radius: 0%px; }
 #navigation ul ul li:last-child>a, #navigation ul ul li.last-item>a { border: transparent; }
