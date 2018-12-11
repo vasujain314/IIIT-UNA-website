@@ -76,6 +76,7 @@
             <li><a class="footer-title" style="font-size:20px;" href="contact.html" >Contact us</a></li>
             <li><a class="footer-title" style="font-size:20px;" href="academic.html" >Academics</a></li>
             <li><a class="footer-title" style="font-size:20px;" href="recruitment.html" >Recruitment</a></li>
+            <li><a class="footer-title" style="font-size:20px;" href="grievances.html" >Grievances portal</a></li>
           </ul>
     </div>
         <div class="col-lg-2 " align="center">
