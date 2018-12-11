@@ -28,15 +28,15 @@
 <body>
         <div class="container" style="margin-top: 10px; margin-bottom: 10px;">
             <div class="row">
-                <div class="col-lg-1"></div>
+                
                 <div class="col-lg-2 ">
-                    <div align="center"><a href="index.html"><img style="height: 170px; width: 160px;" src="images/iiitulogo.png" alt=""></a></div>
+                    <div><a href="index.html"><img style="height: 170px; width: 170px;" src="images/iiitulogo.png" alt=""></a></div>
                 </div>
-                <div class="col-lg-9 " style="margin-top: 2%;" align="center">
-                    <h2>Indian Institute of Information Technology,Una </h2>
-                  <h3 style="padding-left: 9%;"><span> भारतीय सूचना 
+                <div class="col-lg-9 " style="margin-top: 2%;">
+                    <h2 style="padding-left:14%;">Indian Institute of Information Technology,Una </h2>
+                  <h3 style="padding-left:28%;"><span> भारतीय सूचना 
   प्रौद्योगिकी संस्थान ऊना  </span></h3>
-                    <h4 style="padding-left: 5%;">(An Institute Of National Importance Deemed By MHRD)</h4>
+                    <h4 style="padding-left:23%;">(An Institute Of National Importance Deemed By MHRD)</h4>
                 </div>
             </div>
         </div>
