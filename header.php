@@ -79,10 +79,10 @@
                                         <li class="has-sub"><a href="cse-dept.html">Computer Science</a> 
                                         <ul>
                                                 <li><a href="cse-dept.html">Home</a></li>
-                                                <li><a href="#">About Us</a></li>
-                                                <li><a href="#">Faculty</a></li>
-                                                <li><a href="#">Academics</a></li>
-                                                <li><a href="#">Contact Us</a></li>
+                                                <li><a href="cse-aboutus.html">About Us</a></li>
+                                                <li><a href="cse-faculty.html">Faculty</a></li>
+                                                <li><a href="cse-academics.html">Academics</a></li>
+                                                <li><a href="cse-contactus.html">Contact Us</a></li>
                                               
                                             
                                             </ul>
