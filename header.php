@@ -92,25 +92,16 @@
                                         <li class="has-sub"><a href="ece-dept.html">Electronics &amp; Communication</a> 
                                         <ul>
                                                 <li><a href="ece-dept.html">Home</a></li>
-                                                <li><a href="#">About Us</a></li>
-                                                <li><a href="#">Faculty</a></li>
-                                                <li><a href="#">Academics</a></li>
-                                                <li><a href="#">Contact Us</a></li>
+                                                <li><a href="ece-aboutus.html">About Us</a></li>
+                                                <li><a href="ece-faculty.html">Faculty</a></li>
+                                                <li><a href="ece-academics.html">Academics</a></li>
+                                                <li><a href="ece-contactus.html">Contact Us</a></li>
                                               
                                             
                                             </ul>
                                             
                                         </li>
-                                        <li class="has-sub"><a href="#">School Of Basic Sciences</a>
-                                            <ul>
-                                                <li><a href="#">Home</a></li>
-                                                <li><a href="#">About Us</a></li>
-                                                <li><a href="#">Faculty</a></li>
-                                                <li><a href="#">Academics</a></li>
-                                                <li><a href="#">Contact Us</a></li>
-                                       
-                                            
-                                            </ul>
+                                        <li><a href="#">School Of Basic Sciences</a>
                                             
                                         
                                         </li>
