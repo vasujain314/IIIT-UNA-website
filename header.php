@@ -63,11 +63,48 @@
                                 </li>
                                 <li class="has-sub" ><a href="#">Departments <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
                                     <ul>
-                                        <li><a href="it-dept.html">Information Techology</a> </li>
-                                        <li><a href="cse-dept.html">Computer Science</a> </li>
+                                        <li class="has-sub"><a href="#">Information Techology</a> 
+                                            <ul>
+                                                <li><a href="it-dept.html">Home</a></li>
+                                                <li><a href="it-aboutus.html">About Us</a></li>
+                                                <li><a href="it-faculty.html">Faculty</a></li>
+                                                <li><a href="it-academics.html">Academics</a></li>
+                                                <li><a href="it-contactus.html">Contact Us</a></li>
+                                                
+                                            
+                                            </ul>
+                                            
+                                        </li>
                                         
-                                        <li><a href="ece-dept.html">Electronics &amp; Communication</a> </li>
-                                        <li><a href="#">School Of Basic Sciences</a></li>
+                                        <li class="has-sub"><a href="cse-dept.html">Computer Science</a> 
+                                        <ul>
+                                                <li><a href="cse-dept.html">Home</a></li>
+                                                <li><a href="cse-aboutus.html">About Us</a></li>
+                                                <li><a href="cse-faculty.html">Faculty</a></li>
+                                                <li><a href="cse-academics.html">Academics</a></li>
+                                                <li><a href="cse-contactus.html">Contact Us</a></li>
+                                              
+                                            
+                                            </ul>
+                                            
+                                        </li>
+                                        
+                                        <li class="has-sub"><a href="ece-dept.html">Electronics &amp; Communication</a> 
+                                        <ul>
+                                                <li><a href="ece-dept.html">Home</a></li>
+                                                <li><a href="ece-aboutus.html">About Us</a></li>
+                                                <li><a href="ece-faculty.html">Faculty</a></li>
+                                                <li><a href="ece-academics.html">Academics</a></li>
+                                                <li><a href="ece-contactus.html">Contact Us</a></li>
+                                              
+                                            
+                                            </ul>
+                                            
+                                        </li>
+                                        <li><a href="#">School Of Basic Sciences</a>
+                                            
+                                        
+                                        </li>
                                     </ul>
                                 </li>
                                 <li><a href="academic.html">Academics</a></li>
