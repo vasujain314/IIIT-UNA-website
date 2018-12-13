@@ -11,7 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="Indian institute of information technology,Una himachal pradesh,indian a deemed university by mhrd, an institute of national importance">
+       <meta name="description" content="Indian institute of information technology,Una himachal pradesh,indian a deemed university by mhrd, an institute of national importance">
     <meta name="keywords" content="UNA ,una,Himachal Pradesh,college,indian institue of information technology,hamirpur,nith ,nit,cse,it,ece">
     <title>Indian Institue Of Information Technoogy,UNA(H.P)</title>
     <!-- Bootstrap -->
@@ -28,14 +28,15 @@
 <body>
         <div class="container" style="margin-top: 10px; margin-bottom: 10px;">
             <div class="row">
-                <div class="col-lg-1"></div>
+                
                 <div class="col-lg-2 ">
-                    <div align="center"><a href="index.html"><img style="height: 150px; width: 150px;" src="images/iiitulogo.png" alt="" ></a></div>
+                    <div><a href="index.html"><img style="height: 170px; width: 170px;" src="images/iiitulogo.png" alt=""></a></div>
                 </div>
-                <div class="col-lg-9 ">
-                    <h3 style="margin-left:">Indian Institute of Information Technology,Una </h3>
-                  <h4 style="margin-left:"><span> भारतीय सूचना  प्रौद्योगिकी संस्थान ऊना  </span></h4>
-                    <h4 style="margin-left:">(An Institute Of National Importance Deemed By MHRD)</h4>
+                <div class="col-lg-9 " style="margin-top: 2%;">
+                    <h2 style="padding-left:14%;">Indian Institute of Information Technology,Una </h2>
+                  <h3 style="padding-left:28%;"><span> भारतीय सूचना 
+  प्रौद्योगिकी संस्थान ऊना  </span></h3>
+                    <h4 style="padding-left:23%;">(An Institute Of National Importance Deemed By MHRD)</h4>
                 </div>
             </div>
         </div>

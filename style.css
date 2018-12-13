@@ -4,6 +4,14 @@
 
 /*------------------------------------------------------------------
 
+Template Name:      Webhost a Web Hosting Responsive Website Templates
+Version:            1.0.0
+Created Date:       19/09/2017 
+Author: EaseTemplate
+Author URL: https://easetemplate.com/               
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+
 ------------------------------------------------------------------
 [CSS Table of contents]
 
@@ -339,7 +347,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .support-bar ul { }
 .support-bar ul li { float: left; padding-left: 50px; padding-right: 10px; font-size: 15px; text-transform: uppercase; letter-spacing: 1px; font-weight: 500; color: #7a818c; padding-top: 5px; }
 .support-bar i { font-size: 18px; color: #252d3a; width: 28px; display: inline-block; }
-.header-wrapper { z-index: 9; position: relative; background-color: #011c38; border-top: 3px solid #011c38; }
+.header-wrapper { z-index: 9; position: relative; background-color: #011c38 ; border-top: 3px solid #011c38 ; }
 .header-btn { padding-top: 7px; text-align: right; }
 
 /*--------------------------
@@ -355,8 +363,8 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 #navigation.align-center>ul>li { display: inline-block; float: none; }
 #navigation.align-center ul ul { text-align: left; }
 #navigation.align-right>ul>li { float: right; }
-#navigation>ul>li>a { border-right: 1px solid #011c38; margin-left: -1px; border-left: 1px solid #011c38; padding: 18px 22px; font-size: 15px; color: #fff; letter-spacing: 1px; text-decoration: none; font-weight: 500; text-transform: uppercase; }
-#navigation>ul>li:hover>a { color: #fff; background-color:#c1401a ; }
+#navigation>ul>li>a { border-right: 1px solid #011c38 ; margin-left: -1px; border-left: 1px solid #011c38; padding: 18px 22px; font-size: 15px; color: #fff; letter-spacing: 1px; text-decoration: none; font-weight: 500; text-transform: uppercase; }
+#navigation>ul>li:hover>a { color: #fff; background-color: #011c38 ; }
 #navigation>ul>li.has-sub>a { }
 
 /*#navigation>ul>li>a:after {
@@ -381,7 +389,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 #navigation li:hover>ul>li { height: 42px;}
 #navigation ul ul ul { margin-left: 100%; top: 0; }
 #navigation.align-right ul ul ul { margin-left: 0; margin-right: 100%; }
-#navigation ul ul li a { background-color: #011c38; padding: 14px 20px; width: 216px; font-size: 14px; text-decoration: none; color: #fff; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; border-bottom: #c1401a 1px solid; margin-top: -1px; }
+#navigation ul ul li a { background-color: #da4f27; padding: 14px 20px; width: 216px; font-size: 14px; text-decoration: none; color: #fff; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; border-bottom: #c1401a 1px solid; margin-top: -1px; }
 #navigation ul ul li:first-child>a { border-top-right-radius: 0%; }
 #navigation ul ul li:last-child>a { border-bottom-right-radius: 0%px; border-bottom-left-radius: 0%px; }
 #navigation ul ul li:last-child>a, #navigation ul ul li.last-item>a { border: transparent; }
@@ -474,7 +482,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .footer-widget ul li a:hover { color: #f15427; }
 
 /*-------------- tiny footer ------------*/
-.tiny-footer { background-color: #011c38; padding-top: 20px; padding-bottom: 20px;     display: inline-block;
+.tiny-footer { background-color: #16191c; padding-top: 20px; padding-bottom: 20px;     display: inline-block;
     width: 100%;}
 .tiny-footer-para { font-size: 13px; color: #585d63; padding-left: 12px; }
 .tiny-footer a { color: #8a8b8e;}

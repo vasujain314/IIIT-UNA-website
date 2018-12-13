@@ -32,11 +32,14 @@
         <div class="col-lg-3" style="padding-top:2.5%;">
           <h5><strong class="footer-title">Our Address</strong></h5>
           <address>
-            Indian Institute Of Information Technology,Una<br>
-            Himachal pradesh<br>
-            India<br>
-            <i class="fa fa-phone fa-lg"></i>: +91 375893573787<br>
-            <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:director@iiitu.ac.in" class="footer-title" style="font-size:16px;">feedback@iiitu.ac.in</a>
+            Indian Institute Of Information Technology,Una,Himachal Pradesh<br>
+            <b>Camp Office at: </b>
+National Institute of Technology, Hamirpur,
+Himachal Pradesh <br>
+Pin No. 177 005 <br>
+India
+            <i class="fa fa-phone fa-lg"></i>: +91-1972-254077 <br>
+            <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:director@iiitu.ac.in" class="footer-title" style="font-size:16px;">director@iiitu.ac.in</a>
           </address>
         </div>
         <div class="col-lg-4 align-self-center">
@@ -83,10 +86,10 @@
         <div class="col-lg-2 " align="center" style="padding-top:2.5%;">
           <ul  class="list-unstyled">
             <li><a  href="index.html" class="footer-title" style="font-size=16px;">Home</a></li>
-            <li><a  href="campus.html" class="footer-title"style="font-size=16px;">campus</a></li>
+            <li><a  href="campus.html" class="footer-title"style="font-size=16px;">Campus</a></li>
             <li><a  href="admission.html" class="footer-title"style="font-size=16px;">Admissions</a></li>
             <li><a  href="cse-dept.html" class="footer-title"style="font-size=16px;">Departments</a></li>
-            <li><a  href="directordesk.html" class="footer-title"style="font-size=16px;">Director's desk</a></li>
+            <li><a  href="directordesk.html" class="footer-title"style="font-size=16px;">Director's Desk</a></li>
             
           </ul>
         </div>
@@ -98,7 +101,7 @@
         <div class="container-fluid tiny-footer" style="padding-top: 4px; padding-bottom: 4px; ">
             <div class="row">
                     <div class="col-lg-6">
-                        <div class="tiny-section-social">
+                       <!-- <div class="tiny-section-social">
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
@@ -106,17 +109,19 @@
                                     <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                                     <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
                                 </ul>
-                        </div>
+                        </div> -->
                     </div>
-                    <div class="col-lg-6" align="right">
-                        Made with &hearts; by VASU,VIPUL,DEV.
+                    <div class="col-lg-6" align="center">
+                      © Indian Institute of Information Technology, Una (Saloh), Himachal Pradesh 2018  
+                 
                     </div>
                 </div>
             <!-- /. tiny-footer -->
-        </div>
-    </div>
+</div>
+   
 </body>
 </html>
+
   
 
 
