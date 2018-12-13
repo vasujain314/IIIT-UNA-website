@@ -67,7 +67,7 @@
                                             <ul>
                                                 <li><a href="it-dept.html">Home</a></li>
                                                 <li><a href="it-aboutus.html">About Us</a></li>
-                                                <li><a href="#">Faculty</a></li>
+                                                <li><a href="it-faculty.html">Faculty</a></li>
                                                 <li><a href="#">Academics</a></li>
                                                 <li><a href="#">Contact Us</a></li>
                                                 <li><a href="#">Gallery</a></li>
