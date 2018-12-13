@@ -373,6 +373,9 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
  top: 23px;
  height: 0;
 }*/
+
+#navigation>ul>ul>li.has-sub>a:before { position: relative;right: 49px; font-family: FontAwesome;  -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
+
 #navigation ul ul { position: absolute; left: -9999px; margin: 0px; }
 #navigation.align-right ul ul { text-align: right; }
 #navigation ul ul li { top: 0px; height: 0; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
