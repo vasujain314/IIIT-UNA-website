@@ -42,11 +42,11 @@ India
             <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:director@iiitu.ac.in" class="footer-title" style="font-size:16px;">director@iiitu.ac.in</a>
           </address>
         </div>
-        <div class="col-lg-4 align-self-center">
+        <div class="col-lg-4 align-self-center" style="padding-top: 30px;">
           <div class="text-center align-self-center">
             <div id='printoutPanel'></div>
         
-        <div id='myMap' style='width: auto; height: 200px;'></div>
+        <div id='myMap' style='width: auto; height: 200px; '></div>
         <script type='text/javascript'>
             function loadMapScenario() {
                 var map = new Microsoft.Maps.Map(document.getElementById('myMap'), {

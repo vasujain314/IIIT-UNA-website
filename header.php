@@ -29,8 +29,8 @@
         <div class="container" style="margin-top: 10px; margin-bottom: 10px;">
             <div class="row">
                 
-                <div class="col-lg-2 ">
-                    <div><a href="index.html"><img style="height: 170px; width: 170px;" src="images/iiitulogo.png" alt=""></a></div>
+                <div class="col-lg-3 " align="center">
+                    <div ><a href="index.html" ><img style="height: 170px; width: 170px; " src="images/iiitulogo.png" alt=""></a></div>
                 </div>
                 <div class="col-lg-9 " style="margin-top: 2%;">
                     <h2 style="padding-left:14%;">Indian Institute of Information Technology,Una </h2>
