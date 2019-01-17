@@ -51,20 +51,20 @@ India
             function loadMapScenario() {
                 var map = new Microsoft.Maps.Map(document.getElementById('myMap'), {
                     /* No need to set credentials if already passed in URL */
-                    center: new Microsoft.Maps.Location(31.4808,76.1991),
+                    center: new Microsoft.Maps.Location(31.7084, 76.5274),
                     mapTypeId: Microsoft.Maps.MapTypeId.birdseye });
-                var pushpin = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(31.4808,76.1991), { title: 'IIIT UNA' });
-                var polyline = new Microsoft.Maps.Polyline([new Microsoft.Maps.Location(31.4808,76.1991),
-                    new Microsoft.Maps.Location(31.4808,76.1991),
-                    new Microsoft.Maps.Location(31.4808,76.1991),
-                    new Microsoft.Maps.Location(31.4808,76.1991),
-                    new Microsoft.Maps.Location(31.4808,76.1991),
-                    new Microsoft.Maps.Location(31.4808,76.1991),
-                    new Microsoft.Maps.Location(31.4808,76.1991),
-                    new Microsoft.Maps.Location(31.4808,76.1991),
-                    new Microsoft.Maps.Location(31.4808,76.1991),
-                    new Microsoft.Maps.Location(31.4808,76.1991),
-                    new Microsoft.Maps.Location(31.4808,76.1991)], { strokeColor: 'lightblue', strokeThickness: 5 });
+                var pushpin = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(31.7084, 76.5274), { title: 'NIT Hamirpur' });
+                var polyline = new Microsoft.Maps.Polyline([new Microsoft.Maps.Location(31.7084, 76.5274),
+                    new Microsoft.Maps.Location(31.7084, 76.5274),
+                    new Microsoft.Maps.Location(31.7084, 76.5274),
+                    new Microsoft.Maps.Location(31.7084, 76.5274),
+                    new Microsoft.Maps.Location(31.7084, 76.5274),
+                    new Microsoft.Maps.Location(31.7084, 76.5274),
+                    new Microsoft.Maps.Location(31.7084, 76.5274),
+                    new Microsoft.Maps.Location(31.7084, 76.5274),
+                    new Microsoft.Maps.Location(31.7084, 76.5274),
+                    new Microsoft.Maps.Location(31.7084, 76.5274),
+                    new Microsoft.Maps.Location(31.7084, 76.5274)], { strokeColor: 'lightblue', strokeThickness: 5 });
                 var layer = new Microsoft.Maps.Layer();
                 layer.add([pushpin, polyline]);
                 map.layers.insert(layer);
@@ -74,7 +74,7 @@ India
 <script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?key=AtzBR8MzztKkXstzT92ik-oi87ZF4kiY94t7a1awKWWD0gnnZVe90AH7QWux7QFL&callback=loadMapScenario' async defer></script>
         </div>
         </div>
-        <div class="col-lg-3" align="center" style="padding-top:2.5%;">
+        <div class="col-sm-3 col-xs-6"  style="padding-top:2.5%;">
        <ul  class="list-unstyled">
             <li><a class="footer-title" style="font-size:20px;" href="tender.html" >Tender</a></li>
             <li><a class="footer-title" style="font-size:20px;" href="contact.html" >Contact us</a></li>
@@ -83,7 +83,7 @@ India
             <li><a class="footer-title" style="font-size:20px;" href="grievances.html" >Grievances portal</a></li>
           </ul>
     </div>
-        <div class="col-lg-2 " align="center" style="padding-top:2.5%;">
+        <div class="col-sm-2 col-xs-6 "  style="padding-top:2.5%;">
           <ul  class="list-unstyled">
             <li><a  href="index.html" class="footer-title" style="font-size=16px;">Home</a></li>
             <li><a  href="campus.html" class="footer-title"style="font-size=16px;">Campus</a></li>
@@ -112,7 +112,7 @@ India
                         </div> -->
                     </div>
                     <div class="col-lg-6" align="center">
-                      © Indian Institute of Information Technology, Una (Saloh), Himachal Pradesh 2018  
+                      © Indian Institute of Information Technology, Una , Himachal Pradesh 2018  
                  
                     </div>
                 </div>
