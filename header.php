@@ -101,7 +101,7 @@
                                             </ul>
                                             
                                         </li>
-                                        <li><a href="#">School Of Basic Sciences</a>
+                                        <li><a href="basicscience-faculty.html">School Of Basic Sciences</a>
                                             
                                         
                                         </li>
