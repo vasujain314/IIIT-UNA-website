@@ -69,7 +69,7 @@
                                                 <li><a href="it-aboutus.html">About Us</a></li>
                                                 <li><a href="it-faculty.html">Faculty</a></li>
                                                 <li><a href="it-academics.html">Academics</a></li>
-                                                <li><a href="it-contactus.html">Contact Us</a></li>
+                                   
                                                 
                                             
                                             </ul>
@@ -82,7 +82,7 @@
                                                 <li><a href="cse-aboutus.html">About Us</a></li>
                                                 <li><a href="cse-faculty.html">Faculty</a></li>
                                                 <li><a href="cse-academics.html">Academics</a></li>
-                                                <li><a href="cse-contactus.html">Contact Us</a></li>
+                                          
                                               
                                             
                                             </ul>
@@ -95,7 +95,7 @@
                                                 <li><a href="ece-aboutus.html">About Us</a></li>
                                                 <li><a href="ece-faculty.html">Faculty</a></li>
                                                 <li><a href="ece-academics.html">Academics</a></li>
-                                                <li><a href="ece-contactus.html">Contact Us</a></li>
+                                               
                                               
                                             
                                             </ul>
