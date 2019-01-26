@@ -24,19 +24,24 @@
     <!-- FontAwesome CSS -->
     <link rel="stylesheet" type="text/css" href="css/fontello.css">
     <link href="css/font-awesome.min.css" rel="stylesheet">
+    
 </head>
 <body>
         <div class="container" style="margin-top: 10px; margin-bottom: 10px;">
             <div class="row">
                 
                 <div class="col-lg-3 " align="center">
-                    <div ><a href="index.html" ><img style="height: 170px; width: 170px; " src="images/iiitulogo.png" alt=""></a></div>
+                    <div class="logo"><a href="index.html" ><img style=" " src="images/iiitulogo.png" alt=""></a></div>
                 </div>
                 <div class="col-lg-9 " style="margin-top: 2%;">
-                    <h2 style="padding-left:14%;">Indian Institute of Information Technology,Una </h2>
-                  <h3 style="padding-left:28%;"><span> भारतीय सूचना 
-  प्रौद्योगिकी संस्थान ऊना  </span></h3>
-                    <h4 style="padding-left:23%;">(An Institute Of National Importance Deemed By MHRD)</h4>
+
+                        <h2 style="" class="main-heading" onload="">Indian Institute of Information Technology,Una</h2>
+                     
+                <h3 style="" class="hindi-title" ><span> भारतीय सूचना 
+                      प्रौद्योगिकी संस्थान ऊना  </span></h3>
+                    
+                    
+                    <h4 style="" class="secondary-title">(An Institute Of National Importance Deemed By MHRD)</h4>
                 </div>
             </div>
         </div>
