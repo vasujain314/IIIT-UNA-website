@@ -807,7 +807,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
       .main-heading { padding-left:4.8vw;font-size: 4vw;}
     .logo { height: 150px; width: 150px; }
     .hindi-title { padding-left:18vw;font-size: 3.5vw; }
-    .secondary-title { padding-left:7vw; font-size: 3.2vw;}
+    .secondary-title { padding-left: 10vw; font-size: 2.8vw;}
 }
 
 @media only screen and (max-width:600px) {
