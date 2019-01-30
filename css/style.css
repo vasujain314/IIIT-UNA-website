@@ -756,6 +756,15 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .apply-widget ul li { padding: 5px 28px; }
 
 /*==========  Non-Mobile First Method  ==========*/
+@media only screen and (min-width:1440px) {
+    .main-heading { padding-left:14%; }
+    .slider-captions { bottom: 53px; }
+    .imp-title { padding-left: 14%; }
+    .hindi-title { padding-left:28%; }
+    .secondary-title {  padding-left:23%; }
+    .logo { height: 170px; width: 170px;}
+    
+}
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width:1440px) {
@@ -806,7 +815,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .error { padding-top: 0px; }
       .main-heading { padding-left:4.8vw;font-size: 4vw;}
     .logo { height: 150px; width: 150px; }
-    .hindi-title { padding-left:18vw;font-size: 3.5vw; }
+    .hindi-title { padding-left:20vw;font-size: 3.1vw; }
     .secondary-title { padding-left: 10vw; font-size: 2.8vw;}
 }
 
