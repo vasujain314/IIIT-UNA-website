@@ -796,7 +796,24 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
       .main-heading { padding-left:14%; }
     .secondary-title { padding-left:23%; }
     .logo { height: 170px; width: 170px;}
+    .main-heading { padding-left:4vw;font-size: 4vw;}
+    .hindi-title { padding-left:20vw;font-size: 3.1vw; }
+     .secondary-title { padding-left: 12vw; font-size: 2.8vw;}
 }
+
+@media only screen and (max-width:800px) { 
+
+    .hindi-title { padding-left:28%; }
+      .main-heading { padding-left:14%; }
+    .secondary-title { padding-left:23%; }
+    .logo { height: 170px; width: 170px;}
+    .main-heading { padding-left:5vw;font-size: 3.75vw;}
+    .hindi-title { padding-left:20vw;font-size: 3.1vw; }
+     .secondary-title { padding-left: 12vw; font-size: 2.8vw;}
+}
+
+
+
 
 /* Small Devices, Tablets */
 @media only screen and (max-width:768px) {
