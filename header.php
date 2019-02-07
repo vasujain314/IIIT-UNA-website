@@ -138,7 +138,7 @@
         </div>
     </div>
   <script src="js/jquery.min.js" type="text/javascript"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed we gg -->
+    <!-- Include all compiled plugins (below), or include individual files as needed we -->
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
     <script src="js/menumaker.js" type="text/javascript"></script>
     <script type="text/javascript" src="js/jquery.sticky.js"></script>
