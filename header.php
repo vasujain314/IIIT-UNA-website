@@ -68,18 +68,6 @@
                                 </li>
                                 <li class="has-sub" ><a href="#">Departments <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
                                     <ul>
-                                        <li class="has-sub"><a href="#">Information Techology</a> 
-                                            <ul>
-                                                <li><a href="it-dept.html">Home</a></li>
-                                                <li><a href="it-aboutus.html">About Us</a></li>
-                                                <li><a href="it-faculty.html">Faculty</a></li>
-                                                <li><a href="it-academics.html">Academics</a></li>
-                                   
-                                                
-                                            
-                                            </ul>
-                                            
-                                        </li>
                                         
                                         <li class="has-sub"><a href="cse-dept.html">Computer Science</a> 
                                         <ul>
@@ -106,6 +94,23 @@
                                             </ul>
                                             
                                         </li>
+                                        
+                                        <li class="has-sub"><a href="#">Information Techology</a> 
+                                            <ul>
+                                                <li><a href="it-dept.html">Home</a></li>
+                                                <li><a href="it-aboutus.html">About Us</a></li>
+                                                <li><a href="it-faculty.html">Faculty</a></li>
+                                                <li><a href="it-academics.html">Academics</a></li>
+                                   
+                                                
+                                            
+                                            </ul>
+                                            
+                                        </li>
+                                        
+                                        
+                                        
+                                        
                                         <li><a href="basicscience-faculty.html">School Of Basic Sciences</a>
                                             
                                         
