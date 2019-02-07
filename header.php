@@ -118,8 +118,14 @@
                                     </ul>
                                 </li>
                                 <li><a href="academic.html">Academics</a></li>
-                                <li><a href="tender.html">Tenders</a></li>
-                                <li><a href="recuritment.html">Recuritment</a></li>
+                                
+                                <li><a href="#">Placements</a></li>
+                                <li class="has-sub"><a href="#">Archives <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
+                                    <ul>
+                                        <li><a href="tender.html">Tenders</a></li>
+                                        <li><a href="recuritment.html">Recuritment</a></li>
+                                    </ul>
+                                </li>
                                 <li><a href="gallery.html">Gallery</a></li>
                                 <li><a href="grievances.html">Grievances</a></li>
                                 <li><a href="contact-us.html">हिन्दी</a></li>
@@ -132,7 +138,7 @@
         </div>
     </div>
   <script src="js/jquery.min.js" type="text/javascript"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!-- Include all compiled plugins (below), or include individual files as needed we gg -->
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
     <script src="js/menumaker.js" type="text/javascript"></script>
     <script type="text/javascript" src="js/jquery.sticky.js"></script>
