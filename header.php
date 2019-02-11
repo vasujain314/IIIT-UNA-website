@@ -41,7 +41,7 @@
                       प्रौद्योगिकी संस्थान ऊना  </span></h3>
                     
                     
-                    <h4 style="" class="secondary-title">(An Institute Of National Importance Deemed By MHRD)</h4>
+                    <h4 style="" class="secondary-title">(An Institute Of National Importance Under MHRD)</h4>
                 </div>
             </div>
         </div>
@@ -66,10 +66,12 @@
                                         <li><a href="campus.html">Campus</a></li>
                                     </ul>
                                 </li>
+                                <li><a href="academic.html">Academics</a></li>
+                                
                                 <li class="has-sub" ><a href="#">Departments <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
                                     <ul>
                                         
-                                        <li class="has-sub"><a href="cse-dept.html">Computer Science</a> 
+                                        <li class="has-sub"><a href="cse-dept.html">Computer Science &amp; Engineering</a> 
                                         <ul>
                                                 <li><a href="cse-dept.html">Home</a></li>
                                                 <li><a href="cse-aboutus.html">About Us</a></li>
@@ -115,19 +117,19 @@
                                             
                                         
                                         </li>
+                                    
                                     </ul>
+                                
                                 </li>
-                                <li><a href="academic.html">Academics</a></li>
+                                    
+                                
                                 
                                 <li><a href="#">Placements</a></li>
-                                <li class="has-sub"><a href="#">Archives <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
-                                    <ul>
-                                        <li><a href="tender.html">Tenders</a></li>
+                                
                                         <li><a href="recuritment.html">Recuritment</a></li>
-                                    </ul>
-                                </li>
+                                
                                 <li><a href="gallery.html">Gallery</a></li>
-                                <li><a href="grievances.html">Grievances</a></li>
+                                 <li><a href="tender.html">Tenders</a></li>
                                 <li><a href="contact-us.html">हिन्दी</a></li>
                             </ul>
                         </div>
