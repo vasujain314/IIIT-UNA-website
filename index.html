@@ -16,6 +16,33 @@
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.5.0/css/all.css' integrity='sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU' crossorigin='anonymous'>
     <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
     <style>
+/* Paste this css to your style sheet file or under head tag */
+/* This only works with JavaScript, 
+if it's not present, don't show loader */
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(images/preloader.gif) center no-repeat #fff;
+}
+</style>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+<script>
+	//paste this code under head tag or in a seperate js file.
+	// Wait for window load
+	$(window).load(function() {
+		// Animate loader off screen
+		$(".se-pre-con").fadeOut("slow");;
+	});
+</script>
+    <style>
                          
   .backcolour{
   background: #011c38;
@@ -28,7 +55,7 @@
   .slider-img img{
     height: 380px;
   }
-        
+ 
         
     </style>
     <script>
@@ -43,6 +70,8 @@ $("#footer").load("footer.php");
 
 <body>
     <!-- top-bar -->
+    <div class="se-pre-con"></div>
+
  <div id="header"></div>
     <!-- /. header-section-->
     <!-- slider-start -->
