@@ -16,6 +16,33 @@
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.5.0/css/all.css' integrity='sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU' crossorigin='anonymous'>
     <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
     <style>
+/* Paste this css to your style sheet file or under head tag */
+/* This only works with JavaScript, 
+if it's not present, don't show loader */
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(images/preloader.gif) center no-repeat #fff;
+}
+</style>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+<script>
+	//paste this code under head tag or in a seperate js file.
+	// Wait for window load
+	$(window).load(function() {
+		// Animate loader off screen
+		$(".se-pre-con").fadeOut("slow");;
+	});
+</script>
+    <style>
                          
   .backcolour{
   background: #011c38;
@@ -28,7 +55,7 @@
   .slider-img img{
     height: 380px;
   }
-        
+ 
         
     </style>
     <script>
@@ -43,6 +70,8 @@ $("#footer").load("footer.php");
 
 <body>
     <!-- top-bar -->
+    <div class="se-pre-con"></div>
+
  <div id="header"></div>
     <!-- /. header-section-->
     <!-- slider-start -->
@@ -59,15 +88,15 @@ $("#footer").load("footer.php");
     <div class="carousel-inner">
 
       <div class="item active">
-        <img src="./images/carousel/01.jpg" alt="IIITU" style="width:100%; height: 400px;">
+        <img src="./images/carousel/01.jpg" alt="IIITU" style="width:100%;">
       </div>
 
       <div class="item">
-        <img src="./images/carousel/02.jpg" alt="IIITU" style="width:100%; height: 400px;">
+        <img src="./images/carousel/02.jpg" alt="IIITU" style="width:100%;">
       </div>
     
       <div class="item">
-        <img src="./images/carousel/03.jpg" alt="IIITU" style="width:100%; height: 400px;">
+        <img src="./images/carousel/03.jpg" alt="IIITU" style="width:100%; ">
       </div>
   
     </div>
@@ -117,14 +146,13 @@ $("#footer").load("footer.php");
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="section-title">
-                        <!--<h2>Choose your hosting plans</h2>
-                        <p>Amet tempor odio sed vehicula ornare libero vivamus</p>-->
+                    
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="h-25 col-lg-3 col-md-3 col-sm-3 col-xs-6">
-                    <div><H3>QUICK LINKS</H3></div>
+                    <div><H3  class="index-notification">QUICK LINKS</H3></div>
                     <div class="plan-block">
 
                         <marquee direction="up" onmouseover="this.stop()" onmouseout="this.start()" scrollamount="0" height="290px;">
@@ -146,7 +174,7 @@ $("#footer").load("footer.php");
                 <!-- /.plan -->
                 <!-- plan -->
                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-                    <div><H3>LATEST NEWS</H3></div>
+                    <div ><H3 class="index-notification">LATEST NEWS</H3></div>
                     <div class="plan-block">
                         <marquee direction="up" onmouseover="this.stop()" onmouseout="this.start()" scrollamount="0" height="290px;"><ul>
     <li><img src="images/tnew.gif" alt="" /><a target="_blank" href="documents/local_holiday_2019.pdf"> Local Holidays of 2019</a>
@@ -164,7 +192,7 @@ $("#footer").load("footer.php");
                 <!--/.plan -->
                 <!-- plan -->
                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-                    <div><H3>STUDENT CORNER</H3></div>
+                    <div><H3 class="index-notification">STUDENT CORNER</H3></div>
                     <div class="plan-block">
                         <marquee direction="up" onmouseover="this.stop()" onmouseout="this.start()" scrollamount="3" height="290px;">
                             
@@ -204,7 +232,7 @@ $("#footer").load("footer.php");
                 <!-- /.plan -->
                 <!-- plan -->
                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-                    <div><H3>IIITU EVENTS</H3></div>
+                    <div ><H3 class="index-notification">IIITU EVENTS</H3></div>
                     <div class="plan-block">
                         <marquee direction="up" onmouseover="this.stop()" onmouseout="this.start()" scrollamount="3" height="290px;">
 <ul>
@@ -249,7 +277,7 @@ $("#footer").load("footer.php");
                 <div class=" col-lg-offset-2 col-lg-8 col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
                     <div class="section-title" style="padding-top: 1.5%;">
                         <h2>Departments</h2>
-                        <!--<p class="lead">Consectetur mi curabitur hendrerit fringilla enim a accumsan turpis aliquam fringilla nulla hendrerit leo eget suscipit rhoncus sed eros ipsum consequat ac orci a semper interdum elit</p>-->
+                        
                     </div>
                 </div>
             </div>
@@ -268,7 +296,7 @@ $("#footer").load("footer.php");
                         <div class="feature-icon feature-circle"><a href="it-dept.html" style="color: white;"><i class="icon-cloud"></i></a></div>
                         <div class="feature-content">
                             <h4>Information Technology</h4>
-                            <!--<p>Eleifend etiam scelerisque tortor sed loremoreet turpis.</p>-->
+                           
                             
                         </div>
                     </div>
@@ -280,7 +308,7 @@ $("#footer").load("footer.php");
                         <div class="feature-icon feature-circle"><a href="ece-dept.html" style="color: white;"><i class="icon-chip"></i></a></div>
                         <div class="feature-content">
                             <h4>Electronics &amp; Communication</h4>
-                            <!--<p>Ultricies enim ut a accumsan dolor nullam dapibus rhoncus.</p>-->
+
                         </div>
                     </div>
                 </div>

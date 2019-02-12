@@ -24,19 +24,24 @@
     <!-- FontAwesome CSS -->
     <link rel="stylesheet" type="text/css" href="css/fontello.css">
     <link href="css/font-awesome.min.css" rel="stylesheet">
+    
 </head>
 <body>
         <div class="container" style="margin-top: 10px; margin-bottom: 10px;">
             <div class="row">
                 
                 <div class="col-lg-3 " align="center">
-                    <div ><a href="index.html" ><img style="height: 170px; width: 170px; " src="images/iiitulogo.png" alt=""></a></div>
+                    <div class="logo"><a href="index.html" ><img style=" " src="images/iiitulogo.png" alt=""></a></div>
                 </div>
                 <div class="col-lg-9 " style="margin-top: 2%;">
-                    <h2 style="padding-left:14%;">Indian Institute of Information Technology,Una </h2>
-                  <h3 style="padding-left:28%;"><span> भारतीय सूचना 
-  प्रौद्योगिकी संस्थान ऊना  </span></h3>
-                    <h4 style="padding-left:23%;">(An Institute Of National Importance Deemed By MHRD)</h4>
+
+                        <h2 style="" class="main-heading" onload="">Indian Institute of Information Technology,Una</h2>
+                     
+                <h3 style="" class="hindi-title" ><span> भारतीय सूचना 
+                      प्रौद्योगिकी संस्थान ऊना  </span></h3>
+                    
+                    
+                    <h4 style="" class="secondary-title">(An Institute Of National Importance Under MHRD)</h4>
                 </div>
             </div>
         </div>
@@ -61,28 +66,18 @@
                                         <li><a href="campus.html">Campus</a></li>
                                     </ul>
                                 </li>
+                                <li><a href="academic.html">Academics</a></li>
+                                
                                 <li class="has-sub" ><a href="#">Departments <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
                                     <ul>
-                                        <li class="has-sub"><a href="#">Information Techology</a> 
-                                            <ul>
-                                                <li><a href="it-dept.html">Home</a></li>
-                                                <li><a href="it-aboutus.html">About Us</a></li>
-                                                <li><a href="it-faculty.html">Faculty</a></li>
-                                                <li><a href="it-academics.html">Academics</a></li>
-                                                <li><a href="it-contactus.html">Contact Us</a></li>
-                                                
-                                            
-                                            </ul>
-                                            
-                                        </li>
                                         
-                                        <li class="has-sub"><a href="cse-dept.html">Computer Science</a> 
+                                        <li class="has-sub"><a href="cse-dept.html">Computer Science &amp; Engineering</a> 
                                         <ul>
                                                 <li><a href="cse-dept.html">Home</a></li>
                                                 <li><a href="cse-aboutus.html">About Us</a></li>
                                                 <li><a href="cse-faculty.html">Faculty</a></li>
                                                 <li><a href="cse-academics.html">Academics</a></li>
-                                                <li><a href="cse-contactus.html">Contact Us</a></li>
+                                          
                                               
                                             
                                             </ul>
@@ -95,23 +90,46 @@
                                                 <li><a href="ece-aboutus.html">About Us</a></li>
                                                 <li><a href="ece-faculty.html">Faculty</a></li>
                                                 <li><a href="ece-academics.html">Academics</a></li>
-                                                <li><a href="ece-contactus.html">Contact Us</a></li>
+                                               
                                               
                                             
                                             </ul>
                                             
                                         </li>
+                                        
+                                        <li class="has-sub"><a href="#">Information Techology</a> 
+                                            <ul>
+                                                <li><a href="it-dept.html">Home</a></li>
+                                                <li><a href="it-aboutus.html">About Us</a></li>
+                                                <li><a href="it-faculty.html">Faculty</a></li>
+                                                <li><a href="it-academics.html">Academics</a></li>
+                                   
+                                                
+                                            
+                                            </ul>
+                                            
+                                        </li>
+                                        
+                                        
+                                        
+                                        
                                         <li><a href="basicscience-faculty.html">School Of Basic Sciences</a>
                                             
                                         
                                         </li>
+                                    
                                     </ul>
+                                
                                 </li>
-                                <li><a href="academic.html">Academics</a></li>
-                                <li><a href="tender.html">Tenders</a></li>
-                                <li><a href="recuritment.html">Recuritment</a></li>
+                                    
+                                
+                                
+                                <li><a href="#">Placements</a></li>
+                                
+                                        <li><a href="recuritment.html">Recuritment</a></li>
+                                
                                 <li><a href="gallery.html">Gallery</a></li>
-                                <li><a href="grievances.html">Grievances</a></li>
+                                 <li><a href="tender.html">Tenders</a></li>
                                 <li><a href="contact-us.html">हिन्दी</a></li>
                             </ul>
                         </div>
@@ -122,7 +140,7 @@
         </div>
     </div>
   <script src="js/jquery.min.js" type="text/javascript"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!-- Include all compiled plugins (below), or include individual files as needed we -->
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
     <script src="js/menumaker.js" type="text/javascript"></script>
     <script type="text/javascript" src="js/jquery.sticky.js"></script>
