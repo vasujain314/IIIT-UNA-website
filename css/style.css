@@ -896,6 +896,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .logo { height: 135px; width: 135px; }
     .hindi-title { padding-left:13vw;font-size:4vw; }
     .secondary-title { padding-left:4vw; font-size:3.6vw;}
+    .index-notification { font-size: 8vw; text-align: center;}
 }
 
 @media only screen and (max-width:400px) {
@@ -917,7 +918,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .logo { height: 125px; width: 125px; }
     .hindi-title { padding-left:13vw;font-size:4vw; }
     .secondary-title { padding-left:4vw; font-size:3.6vw;}
-    .index-notification { font-size: 5vw;}
+    .index-notification { font-size: 8vw; text-align: center;}
     
    
 }
