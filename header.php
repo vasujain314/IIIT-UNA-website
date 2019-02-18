@@ -124,7 +124,7 @@
                                     
                                 
                                 
-                                <li><a href="#">Placements</a></li>
+                                <li><a href="placement.html">Placements</a></li>
                                 
                                         <li><a href="recuritment.html">Recuritment</a></li>
                                 
