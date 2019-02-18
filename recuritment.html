@@ -83,6 +83,33 @@ if it's not present, don't show loader */
       background: #dddddd;
       border-radius: 25px;       
       </style>
+      
+   <style>
+.collapsible {
+  background-color:#011c38;
+  color: white;
+  cursor: pointer;
+ 
+    width: 100%;
+    height: 60px;
+ 
+  border: none;
+  
+  outline: none;
+  font-size: 20px;
+}
+
+.active, .collapsible:hover {
+  background-color: ;
+}
+
+.content {
+  padding-left:1vw;
+  display: none;
+  overflow: hidden;
+  background-color: white;
+}
+</style>
   </head>
 
   <body>
@@ -123,33 +150,73 @@ if it's not present, don't show loader */
           <td style="padding: 10px;"><center> - </center>  </td>
   				<td style="padding: 10px;"><center>  - </center>  </td>
       </tr>
-  		<tr>
-  			<td style="padding: 10px;">
-  				  <b>Recruitment of Research Fellows-Call for Applications.</b><br>
-            <a href="/documents/srf_jrf.pdf" download><b>Advertisement</b><br> </a> 
-  		      <a href="/documents/rf_iiitu_ssnce.doc" download><b>Application Form (doc format)</b></a>
-  			</td>
-
-                  <td style="padding: 10px;"><center> 08-10-2018 </center>  </td>
-  				        <td style="padding: 10px;"><center> 23-10-2018 </center>  </td>            
-      </tr>
-  		<tr>
-  				<td style="padding: 10px;">
-  				<b>Recruitment of Non-Teaching posts on Deputation/Contractual basis.</b><br>
-            <a href="/documents/advertisiiituna.pdf" download><b>Advertisement</b><br> </a> 
-  		  <a href="/documents/application_formiiitu.docx"><b>Application Form (docx format)</b></a>
-  				</td>
-
-          <td style="padding: 10px;"><center> 29-08-2018 </center>  </td>
-  				<td style="padding: 10px;"><center> 01-10-2018 </center>  </td>
-      </tr>
+  		
           </tbody>
 
       </table>
     </div>
           </div>
       </div>
+      
+      <br>
+      <br>
+      <button class="collapsible">Archives</button>
+      <div class="content">
+        <div class="container">
+<div class="divborder">
+<center><h4><b>Recruitments</b></h4></center>
+<hr>
+<div style="overflow-x: auto;">
+<table>
+<thead>
+          <tr>
+                  <th style="width: 860px; padding: 10px;">Details</th>
+                  <th style="padding: 10px;"><center>Date</center></th>
+  				        <th style="padding: 10px;"><center>Last Date</center></th>
+          </tr>
+          </thead>
+          <tbody>
+  		<tr>
+  				<td style="padding: 10px;">
+  				<b>Provisionaly shortlisted candidates for UniSICMA</b><img src="images/tnew.gif" alt="" /><br>
+          <a href="/documents/iiituprojectrfshortlist.pdf" download><b>Download</b></a> 
+  				</td>
+          <td style="padding: 10px;"><center> - </center>  </td>
+  				<td style="padding: 10px;"><center>  - </center>  </td>
+      </tr>
+  		<tr>
+  				<td style="padding: 10px;">
+  				<b>List of eligible as well as ineligible candidates, syllabus and schedule for the <br>recruitment of various posts.</b><img src="images/tnew.gif" alt="" /><br>
+          <a href="/documents/shortlistedcandiiitu.pdf" download><b>Download</b> </a>
+  				</td>
+          <td style="padding: 10px;"><center> - </center>  </td>
+  				<td style="padding: 10px;"><center>  - </center>  </td>
+      </tr>
+  		
+          </tbody>
 
+      </table>
+    </div>
+          </div>
+      </div>
+      </div>
+      
+      <script>
+          var coll = document.getElementsByClassName("collapsible");
+          var i;
+
+          for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+            content.style.display = "block";
+            }
+            });
+          }
+      </script>
       <br>
       <br>
       <br>
