@@ -63,7 +63,33 @@ $(function(){
   $("#header").load("header.php"); 
   $("#footer").load("footer.php"); 
 });
-</script> 
+</script>
+    <style>
+.collapsible {
+  background-color:#011c38;
+  color: white;
+  cursor: pointer;
+ 
+    width: 100%;
+    height: 5vw;
+ 
+  border: none;
+  
+  outline: none;
+  font-size: 20px;
+}
+
+.active, .collapsible:hover {
+  background-color: ;
+}
+
+.content {
+  padding-left:7vw;
+  display: none;
+  overflow: hidden;
+  background-color: white;
+}
+</style>
  
 </head>
 <body class="bodyback">
@@ -106,7 +132,48 @@ $(function(){
 <br>
 </div>
 </div>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br>
+<button class="collapsible">Archives</button>
+<div class="content">
+  <hr>
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 620px; padding: 10px;">Details</th>
+                <th style="padding: 10px;"><center> Start Date</center></th>
+				        <th style="padding: 10px;"><center> End Date</center></th>
+				        <th style="padding: 10px;"><center>  Download Document</center></th>
+            </tr>
+        </thead>
+        <tbody>
+		<tr>
+				<td style="padding: 10px;">Construction of camp office at IIIT Una </td>
+                <td style="padding: 10px;"><center> 30-12-2016 </center>  </td>
+				<td style="padding: 10px;"><center> 23-01-2017 </center>  </td>
+				<td style="padding: 10px;"><center> <a style="font-size: 30px;" href="documents/tender_iiituna.pdf"  download>
+          <span class="glyphicon glyphicon-download-alt" ></span> </a> </center> </td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+</div>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+</br></br></br></br>
 <div id="footer">    </div>
 
 
