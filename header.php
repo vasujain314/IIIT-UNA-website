@@ -31,7 +31,7 @@
             <div class="row">
                 
                 <div class="col-lg-3 " align="center">
-                    <div class="logo"><a href="index.html" ><img style=" " src="images/oie_13163459KKe75Lbf.gif" alt=""></a></div>
+                    <div class="logo"><a href="index.html" ><img style=" " src="images/oie_18559205hDZHYdK.gif" alt=""></a></div>
                 </div>
                 <div class="col-lg-9 " style="margin-top: 2%;">
 
