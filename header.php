@@ -127,9 +127,9 @@
                                 <li><a href="placement.html">Placements</a></li>
                                 
                                         <li><a href="recuritment.html">Recuritment</a></li>
-                                
+                                <li><a href="tender.html">Tenders</a></li>
                                 <li><a href="gallery.html">Gallery</a></li>
-                                 <li><a href="tender.html">Tenders</a></li>
+                                 
                                 <li><a href="contact-us.html">हिन्दी</a></li>
                             </ul>
                         </div>
