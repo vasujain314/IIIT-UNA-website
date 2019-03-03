@@ -35,13 +35,13 @@
                 </div>
                 <div class="col-lg-9 " style="margin-top: 2%;">
 
-                        <h2 style="" class="main-heading" onload="">Indian Institute of Information Technology,Una</h2>
+                        <h2 class="main-heading" onload="">Indian Institute of Information Technology,Una</h2>
                      
-                <h3 style="" class="hindi-title" ><span> भारतीय सूचना 
+                <h3 class="hindi-title" ><span> भारतीय सूचना 
                       प्रौद्योगिकी संस्थान ऊना  </span></h3>
                     
                     
-                    <h4 style="" class="secondary-title">(An Institute Of National Importance Under MHRD)</h4>
+                    <h4 class="secondary-title">(An Institute Of National Importance Under MHRD)</h4>
                 </div>
             </div>
         </div>
@@ -68,10 +68,10 @@
                                 </li>
                                 <li><a href="academic.html">Academics</a></li>
                                 
-                                <li class="has-sub" ><a href="#">Departments <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
+                                <li class="has-sub"><a href="#">Departments <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
                                     <ul>
                                         
-                                        <li class="has-sub"><a href="cse-dept.html">Computer Science &amp; Engineering</a> 
+                                        <li class="has-sub" style="padding-bottom:50px;"><a href="cse-dept.html">Computer Science &amp; Engineering</a> 
                                         <ul>
                                                 <li><a href="cse-dept.html">Home</a></li>
                                                 <li><a href="cse-aboutus.html">About Us</a></li>
@@ -84,7 +84,8 @@
                                             
                                         </li>
                                         
-                                        <li class="has-sub"><a href="ece-dept.html">Electronics &amp; Communication</a> 
+                                        
+                                        <li class="has-sub"style="padding-bottom:50px;"><a href="ece-dept.html">Electronics &amp; Communication</a> 
                                         <ul>
                                                 <li><a href="ece-dept.html">Home</a></li>
                                                 <li><a href="ece-aboutus.html">About Us</a></li>
@@ -97,7 +98,7 @@
                                             
                                         </li>
                                         
-                                        <li class="has-sub"><a href="#">Information Techology</a> 
+                                        <li class="has-sub"style="padding-bottom:50px;"><a href="#">Information Techology</a> 
                                             <ul>
                                                 <li><a href="it-dept.html">Home</a></li>
                                                 <li><a href="it-aboutus.html">About Us</a></li>
@@ -113,7 +114,7 @@
                                         
                                         
                                         
-                                        <li><a href="basicscience-faculty.html">School Of Basic Sciences</a>
+                                        <li style="padding-bottom:60px;"><a href="basicscience-faculty.html">School Of Basic Sciences</a>
                                             
                                         
                                         </li>
