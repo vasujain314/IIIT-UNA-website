@@ -750,6 +750,8 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .st-accordion .panel-body p:last-child { margin-bottom: 0px; }
 .st-accordion .panel-group .panel-heading+.panel-collapse>.list-group, .panel-group .panel-heading+.panel-collapse>.panel-body { border-bottom: 1px solid #e5e5e5; }
 
+
+
 /*-------------application-form-------------*/
 .apply-widget { }
 .apply-widget ul { }
