@@ -30,8 +30,8 @@
         <div class="container" style="margin-top: 10px; margin-bottom: 10px;">
             <div class="row">
                 
-                <div class="col-lg-1 ">
-                    <div class="logo"><a href="index.html" ><img style=" " src="images/oie_18559205hDZHYdK.gif" alt=""></a></div>
+                <div class="col-lg-1 col-xs-12 " align="center">
+                    <div class="logo"  ><a href="index.html" ><img  src="images/oie_18559205hDZHYdK.gif" alt=""></a></div>
                 </div>
                 <div class="col-lg-7 " style="margin-top: 2%;">
 
