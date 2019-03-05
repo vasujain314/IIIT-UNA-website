@@ -73,8 +73,10 @@ India
         </script>
 <script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?key=AtzBR8MzztKkXstzT92ik-oi87ZF4kiY94t7a1awKWWD0gnnZVe90AH7QWux7QFL&callback=loadMapScenario' async defer></script>
         </div>
+            
         </div>
-        <div class="col-sm-3 col-xs-6"  style="padding-top:2.5%;">
+        <br><br>
+        <div class="col-sm-3 col-xs-6"  style="padding-left:4%;">
        <ul  class="list-unstyled">
             <li><a class="footer-title" style="font-size:20px;" href="tender.html" >Tender</a></li>
             <li><a class="footer-title" style="font-size:20px;" href="contact.html" >Contact us</a></li>
@@ -83,7 +85,7 @@ India
             <li><a class="footer-title" style="font-size:20px;" href="grievances.html" >Grievances portal</a></li>
           </ul>
     </div>
-        <div class="col-sm-2 col-xs-6 "  style="padding-top:2.5%;">
+        <div class="col-sm-2 col-xs-6 "  >
           <ul  class="list-unstyled">
             <li><a  href="index.html" class="footer-title" style="font-size=16px;">Home</a></li>
             <li><a  href="campus.html" class="footer-title"style="font-size=16px;">Campus</a></li>
