@@ -98,6 +98,11 @@ button.gsc-search-button
 {
 	background-color:gainsboro;
 }
+        
+        .header-back{
+            background-image: url(images/images.jpg);
+        }
+       
  
         
         
@@ -105,6 +110,7 @@ button.gsc-search-button
     
 </head>
 <body>
+    <div class="header-back">
         <div class="container" style="margin-top: 10px; margin-bottom: 10px;">
             <div class="row">
                 
@@ -255,6 +261,7 @@ button.gsc-search-button
             </div>
         </div>
     </div>
+        </div>
   <script src="js/jquery.min.js" type="text/javascript"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed we -->
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
