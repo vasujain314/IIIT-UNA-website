@@ -763,9 +763,9 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .slider-captions { bottom: 53px; }
     .imp-title { padding-left: 14%; }
     .hindi-title { padding-left:28%; }
-    .secondary-title {  padding-left:19%; }
+    .secondary-title {  padding-left:16%; }
     .logo { align-self: center; height: 150px; width: 150px;}
-    
+    .body{padding-left: 1vw;padding-right: 1vw;}
     
     
 }
@@ -776,7 +776,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .slider-captions { bottom: 53px; }
     .imp-title { padding-left: 14%; }
     .hindi-title { padding-left:28%; }
-    .secondary-title {  padding-left:23%; }
+    .secondary-title {  padding-left:20%; }
     .logo { align-self: center; height: 150px; width: 150px;}
     
  
@@ -791,7 +791,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .slider .owl-theme .owl-dots { bottom: 35px; }
     .logo { align-self: center; height: 150px; width: 150px;}
     .hindi-title { padding-left:28%; }
-    .secondary-title { padding-left:24%; }
+    .secondary-title { padding-left:20%; }
     
   
    

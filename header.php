@@ -24,16 +24,100 @@
     <!-- FontAwesome CSS -->
     <link rel="stylesheet" type="text/css" href="css/fontello.css">
     <link href="css/font-awesome.min.css" rel="stylesheet">
+    <style>
+       
+        .dot {
+  height: 28px;
+  width: 28px;
+  background-color: gainsboro;
+  border-radius: 100%;
+  display: inline-block;
+}
+        .gsc-control-cse
+{
+	padding:0px !important;
+	border-width:0px !important;
+}
+
+form.gsc-search-box,table.gsc-search-box
+{
+	margin-bottom:0px !important;
+}
+
+.gsc-search-box .gsc-input
+{
+	padding:0px 4px 0px 6px !important;
+}
+
+#gsc-iw-id1
+{
+	border-width: 0px !important;
+	height: auto !important;
+	box-shadow:none !important;
+}
+
+#gs_tti50
+{
+	padding:0px !important;
+}
+
+#gsc-i-id1
+{
+	height:33px !important;
+	padding:0px !important;
+	background:none !important;
+	text-indent:0px !important;
+}
+
+.gsib_b
+{
+	display:none;
+}
+
+button.gsc-search-button
+{
+        display:block;
+        width:13px !important;
+        height:13px !important;
+        border-width:0px !important;
+        margin:0px !important;
+        padding: 10px 6px 10px 13px !important;
+        outline:none;
+        cursor:pointer;
+        box-shadow:none !important;
+        box-sizing: content-box !important;
+        
+}
+
+.gsc-branding
+{
+	display:none !important;
+}
+
+.gsc-control-cse,#gsc-iw-id1
+{
+	background-color:gainsboro;
+}
+        
+        .header-back{
+            background-image: url(images/images.jpg);
+        }
+       
+ 
+        
+        
+    </style>
     
 </head>
 <body>
+    <div class="header-back">
         <div class="container" style="margin-top: 10px; margin-bottom: 10px;">
             <div class="row">
                 
                 <div class="col-lg-1 col-xs-12 " align="center">
                     <div class="logo"  ><a href="index.html" ><img  src="images/oie_18559205hDZHYdK.gif" alt=""></a></div>
                 </div>
-                <div class="col-lg-7 " style="margin-top: 2%;">
+                <div class="col-lg-8 " style="margin-top: 2%;">
 
                         <h3 class="main-heading" onload="">Indian Institute of Information Technology,Una</h3>
                      
@@ -43,7 +127,16 @@
                     
                     <h4 class="secondary-title">(An Institute Of National Importance Under MHRD)</h4>
                 </div>
-                <div class="col-lg-4" style="padding-top:3.8%;padding-left:3%">
+                <div id="search-box">
+                    &nbsp;&nbsp;<div class="logos" style="padding-left:2%;">
+                    <br>
+                    <span class="dot">&nbsp;&nbsp;<a title="Facebook" target="_blank" href="https://www.facebook.com/iiituna/"><i aria-hidden="true" class="fa fa-facebook"></i></a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="dot">&nbsp;&nbsp;<a title="Twitter" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-twitter"></i></a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="dot">&nbsp;&nbsp;<a title="Linkedin" rel="nofollow" target="_blank" href="/"><i aria-hidden="true" class="fa fa-linkedin"></i> </a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="dot">&nbsp;&nbsp;<a title="YouTube" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-youtube"></i> </a></span>
+                    </div>
+                        <div class="dummy"style="padding-top:3%;"></div>
+                <div class="col-lg-3">
                     
                    <script>
   (function() {
@@ -55,11 +148,22 @@
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(gcse, s);
   })();
+    window.onload = function()
+     { 
+	   var searchBox =  document.getElementById("gsc-i-id1");
+	   searchBox.placeholder="Search IIITU";
+	   searchBox.title="Search IIITU"; 
+     }
 </script>
 <gcse:search></gcse:search>
+                    
 
                 </div>
+                    
+                </div>
                 
+
+
             </div>
         </div>
     <!-- /.top-bar -->
@@ -157,6 +261,7 @@
             </div>
         </div>
     </div>
+        </div>
   <script src="js/jquery.min.js" type="text/javascript"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed we -->
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
