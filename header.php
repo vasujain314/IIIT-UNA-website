@@ -101,6 +101,8 @@ button.gsc-search-button
         
         .header-back{
             background-image: url(images/images.jpg);
+            background-repeat: none;
+            width: 100%;
         }
        
  
@@ -111,8 +113,8 @@ button.gsc-search-button
 </head>
 <body>
     <div class="header-back">
-        <div class="container" style="margin-top: 10px; margin-bottom: 10px;">
-            <div class="row">
+        <div class="container">
+            <div class="row" style="margin-top: 10px;">
                 
                 <div class="col-lg-1 col-xs-12 " align="center">
                     <div class="logo"  ><a href="index.html" ><img  src="images/oie_18559205hDZHYdK.gif" alt=""></a></div>
@@ -127,16 +129,16 @@ button.gsc-search-button
                     
                     <h4 class="secondary-title">(An Institute Of National Importance Under MHRD)</h4>
                 </div>
-                <div id="search-box">
-                    &nbsp;&nbsp;<div class="logos" style="padding-left:2%;">
-                    <br>
-                    <span class="dot">&nbsp;&nbsp;<a title="Facebook" target="_blank" href="https://www.facebook.com/iiituna/"><i aria-hidden="true" class="fa fa-facebook"></i></a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <span class="dot">&nbsp;&nbsp;<a title="Twitter" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-twitter"></i></a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <span class="dot">&nbsp;&nbsp;<a title="Linkedin" rel="nofollow" target="_blank" href="/"><i aria-hidden="true" class="fa fa-linkedin"></i> </a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <div class="col-lg-3">
+                    <br/>
+                   <div class="logos" style="padding-left:3%; ">
+                    
+                    <span class="dot">&nbsp;&nbsp;<a title="Facebook" target="_blank" href="https://www.facebook.com/iiituna/"><i aria-hidden="true" class="fa fa-facebook"></i></a></span>&nbsp;&nbsp;&nbsp;
+                    <span class="dot">&nbsp;&nbsp;<a title="Twitter" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-twitter"></i></a></span>&nbsp;&nbsp;&nbsp;
+                    <span class="dot">&nbsp;&nbsp;<a title="Linkedin" rel="nofollow" target="_blank" href="/"><i aria-hidden="true" class="fa fa-linkedin"></i> </a></span>&nbsp;&nbsp;&nbsp;
                     <span class="dot">&nbsp;&nbsp;<a title="YouTube" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-youtube"></i> </a></span>
                     </div>
-                        <div class="dummy"style="padding-top:3%;"></div>
-                <div class="col-lg-3">
+                        <br/>
                     
                    <script>
   (function() {
@@ -157,7 +159,7 @@ button.gsc-search-button
 </script>
 <gcse:search></gcse:search>
                     
-
+<br/>
                 </div>
                     
                 </div>
