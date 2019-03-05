@@ -30,10 +30,10 @@
         <div class="container" style="margin-top: 10px; margin-bottom: 10px;">
             <div class="row">
                 
-                <div class="col-lg-3 " align="center">
+                <div class="col-lg-2 " align="center">
                     <div class="logo"><a href="index.html" ><img style=" " src="images/oie_18559205hDZHYdK.gif" alt=""></a></div>
                 </div>
-                <div class="col-lg-9 " style="margin-top: 2%;">
+                <div class="col-lg-6 " style="margin-top: 2%;">
 
                         <h2 style="" class="main-heading" onload="">Indian Institute of Information Technology,Una</h2>
                      
@@ -42,6 +42,21 @@
                     
                     
                     <h4 style="" class="secondary-title">(An Institute Of National Importance Under MHRD)</h4>
+                </div>
+                <div class="col-lg-4">
+                   <script>
+  (function() {
+    var cx = '015367489222435087779:sfhoi4doa1k';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
                 </div>
             </div>
         </div>
