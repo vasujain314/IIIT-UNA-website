@@ -125,9 +125,9 @@ button.gsc-search-button
                     &nbsp;&nbsp;<div class="logos" style="padding-left:2%;">
                     <br>
                     <span class="dot">&nbsp;&nbsp;<a title="Facebook" target="_blank" href="https://www.facebook.com/iiituna/"><i aria-hidden="true" class="fa fa-facebook"></i></a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <span class="dot">&nbsp;&nbsp;<a title="Twitter" rel="nofollow" target="_blank" href="https://twitter.com/IITJammu"><i aria-hidden="true" class="fa fa-twitter"></i></a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <span class="dot">&nbsp;&nbsp;<a title="Linkedin" rel="nofollow" target="_blank" href="https://www.linkedin.com/company/iit-jammu/"><i aria-hidden="true" class="fa fa-linkedin"></i> </a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <span class="dot">&nbsp;&nbsp;<a title="YouTube" rel="nofollow" target="_blank" href="https://www.youtube.com/channel/UCLNdmo9sbWNKNFVO0r5wjWQ"><i aria-hidden="true" class="fa fa-youtube"></i> </a></span>
+                    <span class="dot">&nbsp;&nbsp;<a title="Twitter" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-twitter"></i></a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="dot">&nbsp;&nbsp;<a title="Linkedin" rel="nofollow" target="_blank" href="/"><i aria-hidden="true" class="fa fa-linkedin"></i> </a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="dot">&nbsp;&nbsp;<a title="YouTube" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-youtube"></i> </a></span>
                     </div>
                         <div class="dummy"style="padding-top:3%;"></div>
                 <div class="col-lg-3">
