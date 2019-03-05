@@ -897,7 +897,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .main-heading { padding-left:2.5vw;font-size:4vw;}
     .logo { align-self: center; height: 125px; width: 125px; }
     .hindi-title { padding-left:13vw;font-size:4vw; }
-    .secondary-title { padding-left:4vw; font-size:3.6vw;}
+    .secondary-title { display: none; padding-left:4vw; font-size:3.6vw;}
     .index-notification { font-size: 8vw; text-align: center;}
 }
 
@@ -919,7 +919,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .main-heading { padding-left:2vw;font-size:4vw;}
     .logo { align-self: center; height: 125px; width: 125px; }
     .hindi-title { padding-left:13vw;font-size:4vw; }
-    .secondary-title { padding-left:4vw; font-size:3.6vw;}
+    .secondary-title { display: none; padding-left:4vw; font-size:3.6vw;}
     .index-notification { font-size: 8vw; text-align: center;}
     
    
@@ -944,5 +944,5 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .main-heading { padding-left:0%;font-size: 13px;}
     .logo { align-self: center; height: 120px; width: 120px; }
     .hindi-title { padding-left:8%;font-size: 13px; }
-    .secondary-title { padding-left:0%; font-size: 11px;}
+    .secondary-title { display: none; padding-left:0%; font-size: 11px;}
 }
