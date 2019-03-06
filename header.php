@@ -96,15 +96,17 @@ button.gsc-search-button
 
 .gsc-control-cse,#gsc-iw-id1
 {
-	background-color:gainsboro;
+	background-color:whitesmoke;
 }
         
-        .header-back{
-            background-image: url(images/images.jpg);
+        
+        
+
+  .header-back{
+            background-image: url(images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-037.jpg);
             background-repeat: none;
             width: 100%;
         }
-       
  
         
         
