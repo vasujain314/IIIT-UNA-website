@@ -1,285 +1,85 @@
 <!DOCTYPE html>
-
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
-
+<html amp lang="en">
 <head>
-  <title>Indian Institute of Information Technology Una</title>
-  <link rel="icon" type="image/jpg" href="images/iiitulogo.png" />
-      <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-       <meta name="description" content="Indian institute of information technology,Una himachal pradesh,indian a deemed university by mhrd, an institute of national importance">
-    <meta name="keywords" content="UNA ,una,Himachal Pradesh,college,indian institue of information technology,hamirpur,nith ,nit,cse,it,ece">
-    <title>Indian Institue Of Information Technoogy,UNA(H.P)</title>
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Style CSS -->
-    <link href="css/style.css" rel="stylesheet">
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-    <link href="css/owl.theme.default.css" rel="stylesheet">
-    <!-- FontAwesome CSS -->
-    <link rel="stylesheet" type="text/css" href="css/fontello.css">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <style>
-        
-      @media only screen and (min-width:1440px) {
-          body{padding-left: 4.2vw;padding-right: 4.6vw;}
-        
-    
-    
-}
-       
-        .dot {
-  height: 28px;
-  width: 28px;
-  background-color: gainsboro;
-  border-radius: 100%;
-  display: inline-block;
-}
-        .gsc-control-cse
-{
-	padding:0px !important;
-	border-width:0px !important;
-}
 
-form.gsc-search-box,table.gsc-search-box
-{
-	margin-bottom:0px !important;
-}
-
-.gsc-search-box .gsc-input
-{
-	padding:0px 4px 0px 6px !important;
-}
-
-#gsc-iw-id1
-{
-	border-width: 0px !important;
-	height: auto !important;
-	box-shadow:none !important;
-}
-
-#gs_tti50
-{
-	padding:0px !important;
-}
-
-#gsc-i-id1
-{
-	height:33px !important;
-	padding:0px !important;
-	background:none !important;
-	text-indent:0px !important;
-}
-
-.gsib_b
-{
-	display:none;
-}
-
-button.gsc-search-button
-{
-        display:block;
-        width:13px !important;
-        height:13px !important;
-        border-width:0px !important;
-        margin:0px !important;
-        padding: 10px 6px 10px 13px !important;
-        outline:none;
-        cursor:pointer;
-        box-shadow:none !important;
-        box-sizing: content-box !important;
-        
-}
-
-.gsc-branding
-{
-	display:none !important;
-}
-
-.gsc-control-cse,#gsc-iw-id1
-{
-	background-color:whitesmoke;
-}
-        
-        
-        
-
-  .header-back{
-            background-image: url(images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-037.jpg);
-            background-repeat: none;
-            width: 100%;
-        }
- 
-        
-        
+     <title>SpringField Olympiads</title>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="description" content="springfield olympiads private limited we, at Springfield provide best olympiad solutions for students.Springfield Olympiads is one the few establishments which was founded with the aim of not only building competitive spirit but also focusing on developing healthy academic competition among children at the school level.The status-quo of Springfield Olympiads can be attributed  to driving academicians who felt a need to promote/advance science, arithmetic, computer training, English, General Knowledge, and other expert courses.Springfield Olympiads firmly believes that such Olympiads, also help the participants in gaining confidence for competition with the best around them, within the country and internationally and contribute to temperament development. Also when children experience a definite sense of accomplishment, it encourages them to try and do even higher as they advance in age.">
+     <meta name="keywords" content="Olympiads, olympiad , maths olympiads , Science olympiads ,national olympiads, springfield olympiads, competitive olympiads,science, arithmetic, computer training, English, General Knowledge, and other expert courses  ">
+     <meta name="author" content="nagacharan">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+     <link rel="shortcut icon" type="image/x-icon" href="images/springfield_olympiads_private_limited_651397.png" />
+     <link rel="stylesheet" href="css/font-awesome.min.css">
+     <link rel="stylesheet" href="css/owl.carousel.css">
+     <link rel="stylesheet" href="css/owl.theme.default.min.css">
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+     
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+     <!-- MAIN CSS -->
+     <link rel="stylesheet" href="css/base-style.css">
+     <script async src="https://cdn.ampproject.org/v0.js"></script>
+<link rel="canonical" href="http://example.ampproject.org/article-metadata.html">
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+<script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Open-source framework for publishing content",
+        "datePublished": "2015-10-07T12:02:41Z",
+        "image": [
+          "logo.jpg"
+        ]
+      }
+    </script>
+    <style amp-custom type="text/css">
+     
     </style>
-    
+
 </head>
-<body>
-    <div class="header-back">
-        <div class="container">
-            <div class="row" style="margin-top: 10px;">
-                
-                <div class="col-lg-1 col-xs-12 " align="center">
-                    <div class="logo"  ><a href="index.html" ><img  src="images/oie_18559205hDZHYdK.gif" alt=""></a></div>
-                </div>
-                <div class="col-lg-8 " style="margin-top: 2%;">
-
-                        <h3 class="main-heading" onload="">Indian Institute of Information Technology,Una</h3>
-                     
-                <h4 class="hindi-title" ><span> भारतीय सूचना 
-                      प्रौद्योगिकी संस्थान ऊना  </span></h4>
-                    
-                    
-                    <h4 class="secondary-title">(An Institute Of National Importance Under MHRD)</h4>
-                </div>
-                <div class="col-lg-3">
-                    <br/>
-                   <div class="logos" style="padding-left:3%; ">
-                    
-                    <span class="dot">&nbsp;&nbsp;<a title="Facebook" target="_blank" href="https://www.facebook.com/iiituna/"><i aria-hidden="true" class="fa fa-facebook"></i></a></span>&nbsp;&nbsp;&nbsp;
-                    <span class="dot">&nbsp;&nbsp;<a title="Twitter" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-twitter"></i></a></span>&nbsp;&nbsp;&nbsp;
-                    <span class="dot">&nbsp;&nbsp;<a title="Linkedin" rel="nofollow" target="_blank" href="/"><i aria-hidden="true" class="fa fa-linkedin"></i> </a></span>&nbsp;&nbsp;&nbsp;
-                    <span class="dot">&nbsp;&nbsp;<a title="YouTube" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-youtube"></i> </a></span>
-                    </div>
-                        <br/>
-                    
-                   <script>
-  (function() {
-    var cx = '015367489222435087779:sfhoi4doa1k';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-    window.onload = function()
-     { 
-	   var searchBox =  document.getElementById("gsc-i-id1");
-	   searchBox.placeholder="Search IIITU";
-	   searchBox.title="Search IIITU"; 
-     }
-</script>
-<gcse:search></gcse:search>
-                    
-<br/>
-                </div>
-                    
-                </div>
-                
+<body id="top" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
+     <!-- PRE LOADER -->
 
 
-            </div>
-        </div>
-    <!-- /.top-bar -->
-    <!-- header-section-->
-    <div class="header-wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <!-- navigations-->
-                    <div class="navigation">
-                        <div id="navigation">
-                            <ul>
-                                <li class="active"><a href="index.html">Home</a></li>
-                                <li class="has-sub"><a href="#">About Us <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
-                                    <ul>
-                                        <li><a href="aboutus.html">About IIIT UNA</a></li>
-                                        <li><a href="mission.html">Vision &amp; Misson</a></li>
-                                        <li><a href="adminstrative.html">Administration</a></li>
-                                        <li><a href="directordesk.html">Director's Desk</a></li>
-                                        <li><a href="rti.html">RTI</a></li>
-                                        <li><a href="campus.html">Campus</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="academic.html">Academics</a></li>
-                                
-                                <li class="has-sub"><a href="#">Departments <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
-                                    <ul>
-                                        
-                                        <li class="has-sub" style="padding-bottom:50px;"><a href="cse-dept.html">Computer Science &amp; Engineering</a> 
-                                        <ul>
-                                                <li><a href="cse-dept.html">Home</a></li>
-                                                <li><a href="cse-aboutus.html">About Us</a></li>
-                                                <li><a href="cse-faculty.html">Faculty</a></li>
-                                                <li><a href="cse-academics.html">Academics</a></li>
-                                          
-                                              
-                                            
-                                            </ul>
-                                            
-                                        </li>
-                                        
-                                        
-                                        <li class="has-sub"style="padding-bottom:50px;"><a href="ece-dept.html">Electronics &amp; Communication</a> 
-                                        <ul>
-                                                <li><a href="ece-dept.html">Home</a></li>
-                                                <li><a href="ece-aboutus.html">About Us</a></li>
-                                                <li><a href="ece-faculty.html">Faculty</a></li>
-                                                <li><a href="ece-academics.html">Academics</a></li>
-                                               
-                                              
-                                            
-                                            </ul>
-                                            
-                                        </li>
-                                        
-                                        <li class="has-sub"style="padding-bottom:50px;"><a href="#">Information Techology</a> 
-                                            <ul>
-                                                <li><a href="it-dept.html">Home</a></li>
-                                                <li><a href="it-aboutus.html">About Us</a></li>
-                                                <li><a href="it-faculty.html">Faculty</a></li>
-                                                <li><a href="it-academics.html">Academics</a></li>
-                                   
-                                                
-                                            
-                                            </ul>
-                                            
-                                        </li>
-                                        
-                                        
-                                        
-                                        
-                                        <li style="padding-bottom:60px;"><a href="basicscience-faculty.html">School Of Basic Sciences</a>
-                                            
-                                        
-                                        </li>
-                                    
-                                    </ul>
-                                
-                                </li>
-                                    
-                                
-                                
-                                <li><a href="placement.html">Placements</a></li>
-                                
-                                        <li><a href="recuritment.html">Recuritment</a></li>
-                                <li><a href="tender.html">Tenders</a></li>
-                                <li><a href="gallery.html">Gallery</a></li>
-                                 
-                                <li><a href="contact-us.html">हिन्दी</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- /.navigations-->
-                </div>
-            </div>
-        </div>
-    </div>
-        </div>
-  <script src="js/jquery.min.js" type="text/javascript"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed we -->
-    <script src="js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="js/menumaker.js" type="text/javascript"></script>
-    <script type="text/javascript" src="js/jquery.sticky.js"></script>
-    <script type="text/javascript" src="js/sticky-header.js"></script>
-    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
-    <script type="text/javascript" src="js/multiple-carousel.js"></script>
-</body>
-</html>
+
+     <!-- MENU -->
+  <div class="navi" id="fadeshow1" >
+     <ul>
+     <li><a  href="regurschool.php">Register</a></li>
+     <li><a  href="downform.php">Download Registration form</a></li>
+     <li><a  href="becordinate.php">Become a  Coordinator</a></li>
+     <li><a  href="ourprocess.php">Our Process</a></li>
+    </ul>
+     
+  </div>  
+
+
+  
+     <section class="navbar custom-navbar navbar-fixed-top" role="navigation" style="top: 38px; ">
+          <div class="container" >
+               <div class="navbar-header" >
+                  <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                      <span class="icon icon-bar"></span>
+                      <span class="icon icon-bar"></span>
+                      <span class="icon icon-bar"></span>
+                 </button>
+                 <a href="index.php" class="navbar-brand" ><span>S</span>pring<span>f</span>ield<span></span> <span>Oly</span>mpiads </a>
+                 <img title="SpringField" class="img-fluid" alt="Springfield olympiads logo" src="images/springfield_olympiads_private_limited_651397.png">
+
+               </div>
+
+               <!-- MENU LINKS -->
+               <div class="collapse navbar-collapse" style="overflow-x: hidden;">
+                    <ul class="nav navbar-nav navbar-nav-first">
+                         <li><a href="index.php">Home</a></li>
+                         <li><a href="Sieo.php">Our Olympiads</a></li>
+                         <li><a href="aboutus.php">About us</a></li>
+                         <li><a href="faq.php">FAQs</a></li>
+                         <li><a href="careers.php">Careers</a></li>
+                         <li><a href="aboutus.php">  Contact Us</a></li>
+                    </ul>
+               </div>
+
+          </div>
+     </section>
+</body></html>
