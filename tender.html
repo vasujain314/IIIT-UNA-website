@@ -9,21 +9,49 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+       <meta name="description" content="Indian institute of information technology,Una himachal pradesh,indian a deemed university by mhrd, an institute of national importance">
+    <meta name="keywords" content="UNA ,una,Himachal Pradesh,college,indian institue of information technology,hamirpur,nith ,nit,cse,it,ece">
     <title>Indian Institue Of Information Technoogy,UNA(H.P)</title>
+    <link rel="icon" type="image/jpg" href="images/iiitulogo.png" />
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Style CSS -->
     <link href="css/style.css" rel="stylesheet">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-    <link href="css/owl.carousel.css" rel="stylesheet">
     <link href="css/owl.theme.default.css" rel="stylesheet">
     <!-- FontAwesome CSS -->
     <link rel="stylesheet" type="text/css" href="css/fontello.css">
     <link href="css/font-awesome.min.css" rel="stylesheet">
-  
+  <style>
+/* Paste this css to your style sheet file or under head tag */
+/* This only works with JavaScript, 
+if it's not present, don't show loader */
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(images/preloader.gif) center no-repeat #fff;
+}
+</style>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+
+<script>
+	//paste this code under head tag or in a seperate js file.
+	// Wait for window load
+	$(window).load(function() {
+		// Animate loader off screen
+		$(".se-pre-con").fadeOut("slow");;
+	});
+</script>
+
   
   
   
@@ -35,12 +63,40 @@ $(function(){
   $("#header").load("header.php"); 
   $("#footer").load("footer.php"); 
 });
-</script> 
+</script>
+    <style>
+.collapsible {
+  background-color:#011c38;
+  color: white;
+  cursor: pointer;
+ 
+    width: 100%;
+    height: 60px;
+ 
+  border: none;
+  
+  outline: none;
+  font-size: 20px;
+}
+
+.active, .collapsible:hover {
+  background-color: ;
+}
+        
+
+.content {
+  padding-left:7vw;
+  display: none;
+  overflow: hidden;
+  background-color: white;
+}
+        
+</style>
  
 </head>
 <body class="bodyback">
 
- 
+ <div class="se-pre-con"></div>
 
 
 
@@ -50,9 +106,6 @@ $(function(){
 
 <br>
   <div class="container">
-  <div class="col-sm-12">
-    
-  </div>
   <div class="divborder">
 
  <center><h4><b>Tender</b></h4></center>
@@ -81,7 +134,49 @@ $(function(){
 <br>
 </div>
 </div>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br>
+<button class="collapsible">Archives</button>
+<div class="content">
+    <center><h4><b>Tender</b></h4></center>
+  <hr>
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 620px; padding: 10px;">Details</th>
+                <th style="padding: 10px;"><center> Start Date</center></th>
+				        <th style="padding: 20px;"><center> End Date</center></th>
+				        <th style="padding: 20px;"><center>  Download Document</center></th>
+            </tr>
+        </thead>
+        <tbody>
+		<tr>
+				<td style="padding: 10px;">Construction of camp office at IIIT Una </td>
+                <td style="padding: 10px;"><center> 30-12-2016 </center>  </td>
+				<td style="padding: 20px;"><center> 23-01-2017 </center>  </td>
+				<td style="padding: 20px;"><center> <a style="font-size: 30px;" href="documents/tender_iiituna.pdf"  download>
+          <span class="glyphicon glyphicon-download-alt" ></span> </a> </center> </td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+</div>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+</br></br></br></br>
 <div id="footer">    </div>
 
 
