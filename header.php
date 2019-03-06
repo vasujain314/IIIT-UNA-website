@@ -25,6 +25,13 @@
     <link rel="stylesheet" type="text/css" href="css/fontello.css">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <style>
+        
+      @media only screen and (min-width:1440px) {
+          body{padding-left: 4.2vw;padding-right: 4.6vw;}
+        
+    
+    
+}
        
         .dot {
   height: 28px;
