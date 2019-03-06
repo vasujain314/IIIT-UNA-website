@@ -25,6 +25,13 @@
     <link rel="stylesheet" type="text/css" href="css/fontello.css">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <style>
+        
+      @media only screen and (min-width:1440px) {
+          body{padding-left: 4.2vw;padding-right: 4.6vw;}
+        
+    
+    
+}
        
         .dot {
   height: 28px;
@@ -96,15 +103,17 @@ button.gsc-search-button
 
 .gsc-control-cse,#gsc-iw-id1
 {
-	background-color:gainsboro;
+	background-color:whitesmoke;
 }
         
-        .header-back{
-            background-image: url(images/images.jpg);
+        
+        
+
+  .header-back{
+            background-image: url(images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-037.jpg);
             background-repeat: none;
             width: 100%;
         }
-       
  
         
         
