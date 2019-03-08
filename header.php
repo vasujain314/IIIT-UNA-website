@@ -111,8 +111,8 @@ button.gsc-search-button
 
   .header-back{
             background-image: url(images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-037.jpg);
-            background-repeat: none;
-            width: 100%;
+            background-repeat: no-repeat;
+            background-size: cover;
         }
  
         
