@@ -28,9 +28,6 @@
 
       @media only screen and (min-width:1440px) {
           body{padding-left: 4.2vw;padding-right: 4.6vw;}
-
-
-
 }
 
         .dot {
@@ -42,45 +39,38 @@
 }
         .gsc-control-cse
 {
-	padding:0px !important;
-	border-width:0px !important;
+    padding:0px !important;
+    border-width:0px !important;
 }
-
 form.gsc-search-box,table.gsc-search-box
 {
-	margin-bottom:0px !important;
+    margin-bottom:0px !important;
 }
-
 .gsc-search-box .gsc-input
 {
-	padding:0px 4px 0px 6px !important;
+    padding:0px 4px 0px 6px !important;
 }
-
 #gsc-iw-id1
 {
-	border-width: 0px !important;
-	height: auto !important;
-	box-shadow:none !important;
+    border-width: 0px !important;
+    height: auto !important;
+    box-shadow:none !important;
 }
-
 #gs_tti50
 {
-	padding:0px !important;
+    padding:0px !important;
 }
-
 #gsc-i-id1
 {
-	height:33px !important;
-	padding:0px !important;
-	background:none !important;
-	text-indent:0px !important;
+    height:33px !important;
+    padding:0px !important;
+    background:none !important;
+    text-indent:0px !important;
 }
-
 .gsib_b
 {
-	display:none;
+    display:none;
 }
-
 button.gsc-search-button
 {
         display:block;
@@ -95,19 +85,14 @@ button.gsc-search-button
         box-sizing: content-box !important;
 
 }
-
 .gsc-branding
 {
-	display:none !important;
+    display:none !important;
 }
-
 .gsc-control-cse,#gsc-iw-id1
 {
-	background-color:whitesmoke;
+    background-color:whitesmoke;
 }
-
-
-
 
   .header-back{
             background-image: url(images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-037.jpg);
@@ -119,23 +104,20 @@ button.gsc-search-button
         .logos{
            display: none;
         }
-
-
-
-    </style>
-
+  </style>
 </head>
 <body>
     <div class="header-back">
         <div class="container">
             <div class="row" style="margin-top: 10px;">
-
                 <div class="col-lg-1 col-xs-12 " align="center">
                     <div class="logo"  ><a href="index.html" ><img  src="images/oie_18559205hDZHYdK.gif" alt=""></a></div>
                 </div>
                 <div class="col-lg-8 " style="margin-top: 2%;">
-
                         <h3 class="main-heading" onload="">Indian Institute of Information Technology,Una</h3>
+
+ 
+
 
                 <h4 class="hindi-title" ><span> भारतीय सूचना
                       प्रौद्योगिकी संस्थान ऊना  </span></h4>
@@ -144,7 +126,6 @@ button.gsc-search-button
                     <h4 class="secondary-title">(An Institute Of National Importance Under MHRD)</h4>
                 </div>
                 <div class="col-lg-3">
-
                    <div class="logos" style="padding-left:3%; ">
                    <br/>
                     <span class="dot">&nbsp;&nbsp;<a title="Facebook" target="_blank" href="https://www.facebook.com/iiituna/"><i aria-hidden="true" class="fa fa-facebook"></i></a></span>&nbsp;&nbsp;&nbsp;
@@ -166,20 +147,16 @@ button.gsc-search-button
   })();
     window.onload = function()
      {
-	   var searchBox =  document.getElementById("gsc-i-id1");
-	   searchBox.placeholder="Search IIITU";
-	   searchBox.title="Search IIITU";
+
+       var searchBox =  document.getElementById("gsc-i-id1");
+       searchBox.placeholder="Search IIITU";
+       searchBox.title="Search IIITU";
      }
 </script>
 <gcse:search></gcse:search>
-
 <br/>
                 </div>
-
                 </div>
-
-
-
             </div>
         </div>
     <!-- /.top-bar -->
@@ -215,16 +192,15 @@ button.gsc-search-button
                                                 <li><a href="cse-aboutus.html">About Us</a></li>
                                                 <li><a href="cse-faculty.html">Faculty</a></li>
                                                 <li><a href="cse-academics.html">Academics</a></li>
-
-
-
                                             </ul>
                                         
-
                                         </li>
                                         
 
 
+
+
+                           
                                         <li class="has-sub"style="padding-bottom:50px;"><a href="ece-dept.html">School Of Electronics </a>
                                         <ul>
                                                 <li><a href="ece-dept.html">Home</a></li>
@@ -234,9 +210,11 @@ button.gsc-search-button
 
 
 
+
                                             </ul>
 
                                         </li>
+
 
                                        <!-- <li class="has-sub"style="padding-bottom:50px;"><a href="#">Information Techology</a>
                                             <ul>
@@ -245,31 +223,19 @@ button.gsc-search-button
                                                 <li><a href="it-faculty.html">Faculty</a></li>
                                                 <li><a href="it-academics.html">Academics</a></li>
 
-
-
                                             </ul>
-
                                         </li>--->
-
-
-
-
                                         <li style="padding-bottom:60px;"><a href="basicscience-faculty.html">School Of Basic Sciences</a>
-
-
                                         </li>
-
                                     </ul>
-
                                 </li>
-
-
-
                                 <li><a href="placement.html">Placements</a></li>
-
                                         <li><a href="recuritment.html">Recuritment</a></li>
                                 <li><a href="tender.html">Tenders</a></li>
                                 <li><a href="gallery.html">Gallery</a></li>
+
+
+
 
                                 <li><a href="contact-us.html">हिन्दी</a></li>
                             </ul>
