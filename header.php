@@ -143,7 +143,7 @@ button.gsc-search-button
                    <div class="logos" style="padding-left:3%; ">
                     
                     <span class="dot">&nbsp;&nbsp;<a title="Facebook" target="_blank" href="https://www.facebook.com/iiituna/"><i aria-hidden="true" class="fa fa-facebook"></i></a></span>&nbsp;&nbsp;&nbsp;
-                    <span class="dot">&nbsp;&nbsp;<a title="Twitter" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-twitter"></i></a></span>&nbsp;&nbsp;&nbsp;
+                    <span class="dot">&nbsp;&nbsp;<a title="Gmail" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-google"></i></a></span>&nbsp;&nbsp;&nbsp;
                     <span class="dot">&nbsp;&nbsp;<a title="Linkedin" rel="nofollow" target="_blank" href="/"><i aria-hidden="true" class="fa fa-linkedin"></i> </a></span>&nbsp;&nbsp;&nbsp;
                     <span class="dot">&nbsp;&nbsp;<a title="YouTube" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-youtube"></i> </a></span>
                     </div>

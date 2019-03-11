@@ -39,7 +39,7 @@ National Institute of Technology, Hamirpur,
 Himachal Pradesh <br>
 Pin No. 177 005 <br>
 India
-            <i class="fa fa-phone fa-lg"></i>: +91-1972-254077 <br>
+            <i class="fa fa-phone fa-lg"></i>: +91-1972-224373 <br>
             <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:director@iiitu.ac.in" class="footer-title" style="font-size:16px;">director@iiitu.ac.in</a>
           </address>
         </div>
@@ -83,7 +83,7 @@ India
             <li><a class="footer-title" style="font-size:20px;" href="contact.html" >Contact us</a></li>
             <li><a class="footer-title" style="font-size:20px;" href="academic.html" >Academics</a></li>
             <li><a class="footer-title" style="font-size:20px;" href="recruitment.html" >Recruitment</a></li>
-            <li><a class="footer-title" style="font-size:20px;" href="grievances.html" >Grievances portal</a></li>
+            <li><a class="footer-title" style="font-size:20px;" href="grievances.html" >Grievances Portal</a></li>
           </ul>
     </div>
         <div class="col-sm-2 col-xs-6 "  >
@@ -104,7 +104,7 @@ India
         <div class="container-fluid tiny-footer" style="padding-top: 4px; padding-bottom: 4px; ">
             <div class="row">
                     <div class="col-lg-6">
-                       <!-- <div class="tiny-section-social">
+                       <!-- <div ;. class="tiny-section-social">
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
