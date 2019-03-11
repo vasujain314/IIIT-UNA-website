@@ -208,7 +208,8 @@ button.gsc-search-button
                                 <li class="has-sub"><a href="#">Departments <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
                                     <ul>
 
-                                        <li class="has-sub" style="padding-bottom:50px;"><a href="cse-dept.html">Computer Science &amp; Engineering</a>
+                                        <li class="has-sub" style="padding-bottom:50px;"><a href="cse-dept.html">School of Computer Science</a>
+                                        
                                         <ul>
                                                 <li><a href="cse-dept.html">Home</a></li>
                                                 <li><a href="cse-aboutus.html">About Us</a></li>
@@ -218,11 +219,13 @@ button.gsc-search-button
 
 
                                             </ul>
+                                        
 
                                         </li>
+                                        
 
 
-                                        <li class="has-sub"style="padding-bottom:50px;"><a href="ece-dept.html">Electronics &amp; Communication</a>
+                                        <li class="has-sub"style="padding-bottom:50px;"><a href="ece-dept.html">School Of Electronics </a>
                                         <ul>
                                                 <li><a href="ece-dept.html">Home</a></li>
                                                 <li><a href="ece-aboutus.html">About Us</a></li>
@@ -235,7 +238,7 @@ button.gsc-search-button
 
                                         </li>
 
-                                        <li class="has-sub"style="padding-bottom:50px;"><a href="#">Information Techology</a>
+                                       <!-- <li class="has-sub"style="padding-bottom:50px;"><a href="#">Information Techology</a>
                                             <ul>
                                                 <li><a href="it-dept.html">Home</a></li>
                                                 <li><a href="it-aboutus.html">About Us</a></li>
@@ -246,7 +249,7 @@ button.gsc-search-button
 
                                             </ul>
 
-                                        </li>
+                                        </li>--->
 
 
 
