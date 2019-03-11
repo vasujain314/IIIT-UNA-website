@@ -7,7 +7,7 @@
 ------------------------------------------------------------------
 [CSS Table of contents]
 
-1.  Body / Typography 
+1.  Body / Typography
 2.  Form Elements
 3.  Buttons
 4.  General / Elements
@@ -44,7 +44,7 @@
    10.1 Blog Default
    10.2 Blog Single
    ------------------------------------
-   
+
 11.Sidebar
    11.1 Widget
    ------------------------------------
@@ -80,7 +80,7 @@ sub { bottom: 0em; }
 strong { color: #333333; font-weight: 600; margin-right: 8px; }
 hr { border-bottom: 1px solid #e4e7ed; margin-bottom: 40px; margin-top: 40px; }
 
-/*----------------------- 
+/*-----------------------
     2 Form Elements:
 -------------------------*/
 label { }
@@ -120,7 +120,7 @@ a img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
 .wp-caption p.wp-caption-text { font-size: 11px; line-height: 17px; margin: 0; padding: 0 4px 5px; }
 
 /*-----------------------------------
-    3. Buttons 
+    3. Buttons
 -----------------------------------*/
 .btn { font-family: 'Fira Sans', sans-serif; font-size: 14px; text-transform: uppercase; font-weight: 800; padding: 18px 30px; margin-bottom: 4px; border-radius: 2px; line-height: 1.8; letter-spacing: 2px; border: transparent; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; word-wrap: break-word; white-space: normal !important; }
 .btn-primary { background-color: #f15427; color: #fff; }
@@ -143,10 +143,10 @@ button.btn { margin-right: -1px; }
 .btn-arrow:hover { background-color: #03a32f; color: #fff; }
 
 /*-----------------------------------
-    4. General / Elements 
+    4. General / Elements
 -----------------------------------*/
 
-/*----------------------- 
+/*-----------------------
     4.1 Section space :
 -------------------------*/
 
@@ -229,7 +229,7 @@ button.btn { margin-right: -1px; }
 .pdtb40 { padding-bottom: 40px; padding-top: 40px; }
 
 /*--------------------------------
-4.4 Background & Block color 
+4.4 Background & Block color
 ----------------------------------*/
 .content { padding-top: 100px; padding-bottom: 100px; }
 .bg-light { background-color: #f4f7fa; }
@@ -249,10 +249,10 @@ button.btn { margin-right: -1px; }
 .divider-line { border-bottom: 1px solid #1d4293; margin-top: 40px; margin-bottom: 40px; }
 
 /*--------------------------------
-4.5 Features Block 
+4.5 Features Block
 ----------------------------------*/
 .features-section { margin-bottom: 40px; margin-top: 0px; }
- 
+
 .feature { margin-bottom: 30px }
 .feature-icon { font-size: 58px; color: #f1582c; margin-bottom: 30px; margin-top: 30px }
 .feature-content { }
@@ -281,7 +281,7 @@ button.btn { margin-right: -1px; }
 .widget-categories .arrow-right li:before { margin-top: 7px; color: #00b231; font-size: 16px; }
 
 /*--------------------------------
-4.7 Call to actions 
+4.7 Call to actions
 ----------------------------------*/
 .cta-wrapper { padding-top: 50px; padding-bottom: 50px; background-color: #ffd75b; }
 .cta-section h1 { font-size: 32px; font-weight: 800; margin-top: 10px; text-transform: capitalize; }
@@ -298,7 +298,7 @@ button.btn { margin-right: -1px; }
 .widget-cta-title { }
 
 /*--------------------------------
- 4.8 Image Hover Effect 
+ 4.8 Image Hover Effect
 ----------------------------------*/
 img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border: none; line-height: normal; vertical-align: middle; }
 .imghover { display: block; position: relative; max-width: 100%; }
@@ -310,7 +310,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .imghover:hover::after { color: #fff; }
 
 /*--------------------------------
-4.9 Icon 
+4.9 Icon
 ----------------------------------*/
 .icon { }
 .icon-1x { font-size: 18px; }
@@ -326,11 +326,11 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .icon-white { color: #fff; }
 
 /*--------------------------------
-5 Header / Navigations 
+5 Header / Navigations
 ----------------------------------*/
 
 /*--------------------
-    5.1 Header Regular 
+    5.1 Header Regular
    ----------------------*/
 
 
@@ -438,7 +438,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .breadcrumb>li>a { color: #252d3a; }
 
 /*-----------------------------------
-    6. Slider 
+    6. Slider
 -------------------------------------*/
 .slider { margin-bottom: -40px; }
 .slider-img { position: relative; width: 100%; }
@@ -466,7 +466,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .process-text { padding-top: 20px; }
 
 /*-----------------------------------
-8. Footer 
+8. Footer
 -------------------------------------*/
 .footer { background-color: #011c38; padding-top: 80px; padding-bottom: 30px; color: #717376; font-weight: 400; }
 .footer-title { margin-bottom: 40px; color: #fff; letter-spacing: 0px; font-size: 22px; }
@@ -492,7 +492,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .copyrightlink:hover {color:#f15427; }
 
 /*-----------------------------------
-9. Pages 
+9. Pages
 -------------------------------------*/
 
 /*-------------------------
@@ -732,7 +732,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .st-tabs .tab-content { }
 
 /*--------------------------------
-14. Accodrion 
+14. Accodrion
 ----------------------------------*/
 .st-accordion { }
 .st-accordion .panel { box-shadow: none; }
@@ -765,9 +765,9 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .hindi-title { padding-left:28%; }
     .secondary-title {  padding-left:16%; }
     .logo { align-self: center; height: 150px; width: 150px;}
-    
-    
-    
+
+
+
 }
 
 /* Large Devices, Wide Screens */
@@ -778,8 +778,8 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .hindi-title { padding-left:28%; }
     .secondary-title {  padding-left:20%; }
     .logo { align-self: center; height: 150px; width: 150px;}
-    
- 
+
+
 }
 @media only screen and (max-width:1200px) {
     #navigation>ul>li>a { padding: 22px 24px; }
@@ -792,13 +792,13 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .logo { align-self: center; height: 150px; width: 150px;}
     .hindi-title { padding-left:28%; }
     .secondary-title { padding-left:20%; }
-    
-  
-   
+
+
+
 }
 
 /* Medium Devices, Desktops */
-@media only screen and (max-width:992px) { 
+@media only screen and (max-width:992px) {
 
     .hindi-title { padding-left:28%; }
       .main-heading { padding-left:14%; }
@@ -809,7 +809,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
      .secondary-title { padding-left: 12vw; font-size: 2.8vw;}
 }
 
-@media only screen and (max-width:900px) { 
+@media only screen and (max-width:900px) {
 
     .hindi-title { padding-left:28%; }
       .main-heading { padding-left:14%; }
@@ -820,7 +820,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
      .secondary-title { padding-left: 8vw; font-size: 2.8vw;}
 }
 
-@media only screen and (max-width:800px) { 
+@media only screen and (max-width:800px) {
 
     .hindi-title { padding-left:28%; }
       .main-heading { padding-left:14%; }
@@ -851,8 +851,8 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .error { padding-top: 0px; }
       .main-heading { padding-left:4.8vw;font-size: 4vw;}
     .logo { align-self: center; height: 150px; width: 150px; }
-    .hindi-title { padding-left:20vw;font-size: 3.1vw; }
-    .secondary-title { padding-left: 14.5vw; font-size: 2.8vw;}
+    .hindi-title { padding-left:20.2vw;font-size: 3.7vw; }
+    .secondary-title {display: none;padding-left: 14.5vw; font-size: 2.8vw;}
 }
 
 @media only screen and (max-width:600px) {
@@ -871,8 +871,8 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .error { padding-top: 0px; }
       .main-heading { padding-left:3vw;font-size: 4.2vw;}
     .logo { align-self: center; height: 150px; width: 150px; }
-    .hindi-title { padding-left:16vw;font-size:3.7vw; }
-    .secondary-title { padding-left:7vw; font-size: 3.4vw;}
+    .hindi-title { padding-left:18vw;font-size:3.9vw; }
+    .secondary-title { display: none;padding-left:7vw; font-size: 3.4vw;}
 }
 
 
@@ -896,7 +896,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .error { padding-top: 0px; }
     .main-heading { padding-left:2.5vw;font-size:4vw;}
     .logo { align-self: center; height: 125px; width: 125px; }
-    .hindi-title { padding-left:13vw;font-size:4vw; }
+    .hindi-title { padding-left:14.2vw;font-size:4.2vw; }
     .secondary-title { display: none; padding-left:4vw; font-size:3.6vw;}
     .index-notification { font-size: 8vw; text-align: center;}
 }
@@ -918,15 +918,15 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .error { padding-top: 0px; }
     .main-heading { padding-left:2vw;font-size:4vw;}
     .logo { align-self: center; height: 125px; width: 125px; }
-    .hindi-title { padding-left:13vw;font-size:4vw; }
+    .hindi-title { padding-left:14vw;font-size:4.2vw; }
     .secondary-title { display: none; padding-left:4vw; font-size:3.6vw;}
     .index-notification { font-size: 8vw; text-align: center;}
-    
-   
+
+
 }
 
 /* Custom, iPhone Retina */
-@media only screen and (max-width:320px) {
+@media only screen and (max-width:310px) {
     .top-bar { padding-top: 15px; padding-bottom: 0px; }
     .slider-captions { bottom: 18px; background: transparent; left: 0px; }
     .slider-title { font-size: 21px; line-height: 26px; }

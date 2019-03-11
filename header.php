@@ -25,9 +25,11 @@
     <link rel="stylesheet" type="text/css" href="css/fontello.css">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <style>
+
       @media only screen and (min-width:1440px) {
           body{padding-left: 4.2vw;padding-right: 4.6vw;}
 }
+
         .dot {
   height: 28px;
   width: 28px;
@@ -81,6 +83,7 @@ button.gsc-search-button
         cursor:pointer;
         box-shadow:none !important;
         box-sizing: content-box !important;
+
 }
 .gsc-branding
 {
@@ -90,16 +93,18 @@ button.gsc-search-button
 {
     background-color:whitesmoke;
 }
+
   .header-back{
             background-image: url(images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-037.jpg);
             background-repeat: no-repeat;
             background-size: cover;
         }
+
         @media only screen and (max-width:768px){
         .logos{
            display: none;
         }
-    </style>
+  </style>
 </head>
 <body>
     <div class="header-back">
@@ -110,8 +115,14 @@ button.gsc-search-button
                 </div>
                 <div class="col-lg-8 " style="margin-top: 2%;">
                         <h3 class="main-heading" onload="">Indian Institute of Information Technology,Una</h3>
+
+ 
+
+
                 <h4 class="hindi-title" ><span> भारतीय सूचना
                       प्रौद्योगिकी संस्थान ऊना  </span></h4>
+
+
                     <h4 class="secondary-title">(An Institute Of National Importance Under MHRD)</h4>
                 </div>
                 <div class="col-lg-3">
@@ -123,6 +134,7 @@ button.gsc-search-button
                     <span class="dot">&nbsp;&nbsp;<a title="YouTube" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-youtube"></i> </a></span>
                     </div>
                         <br/>
+
                    <script>
   (function() {
     var cx = '015367489222435087779:sfhoi4doa1k';
@@ -135,6 +147,7 @@ button.gsc-search-button
   })();
     window.onload = function()
      {
+
        var searchBox =  document.getElementById("gsc-i-id1");
        searchBox.placeholder="Search IIITU";
        searchBox.title="Search IIITU";
@@ -168,8 +181,10 @@ button.gsc-search-button
                                     </ul>
                                 </li>
                                 <li><a href="academic.html">Academics</a></li>
+
                                 <li class="has-sub"><a href="#">Departments <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
                                     <ul>
+
                                         <li class="has-sub" style="padding-bottom:50px;"><a href="cse-dept.html">School of Computer Science</a>
                                         
                                         <ul>
@@ -181,20 +196,33 @@ button.gsc-search-button
                                         
                                         </li>
                                         
+
+
+
+
+                           
                                         <li class="has-sub"style="padding-bottom:50px;"><a href="ece-dept.html">School Of Electronics </a>
                                         <ul>
                                                 <li><a href="ece-dept.html">Home</a></li>
                                                 <li><a href="ece-aboutus.html">About Us</a></li>
                                                 <li><a href="ece-faculty.html">Faculty</a></li>
                                                 <li><a href="ece-academics.html">Academics</a></li>
+
+
+
+
                                             </ul>
+
                                         </li>
+
+
                                        <!-- <li class="has-sub"style="padding-bottom:50px;"><a href="#">Information Techology</a>
                                             <ul>
                                                 <li><a href="it-dept.html">Home</a></li>
                                                 <li><a href="it-aboutus.html">About Us</a></li>
                                                 <li><a href="it-faculty.html">Faculty</a></li>
                                                 <li><a href="it-academics.html">Academics</a></li>
+
                                             </ul>
                                         </li>--->
                                         <li style="padding-bottom:60px;"><a href="basicscience-faculty.html">School Of Basic Sciences</a>
@@ -205,6 +233,10 @@ button.gsc-search-button
                                         <li><a href="recuritment.html">Recuritment</a></li>
                                 <li><a href="tender.html">Tenders</a></li>
                                 <li><a href="gallery.html">Gallery</a></li>
+
+
+
+
                                 <li><a href="contact-us.html">हिन्दी</a></li>
                             </ul>
                         </div>
