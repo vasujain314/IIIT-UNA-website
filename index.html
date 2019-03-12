@@ -30,6 +30,25 @@ if it's not present, don't show loader */
 	z-index: 9999;
 	background: url(images/preloader.gif) center no-repeat #fff;
 }
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
 </style>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
@@ -175,13 +194,20 @@ $("#footer").load("footer.php");
                     <div ><H3 class="index-notification">LATEST NEWS</H3></div>
                     <div class="plan-block">
                 <marquee direction="up" onmouseover="this.stop()" onmouseout="this.start()" scrollamount="3" height="290px;">
-                    <li><img src="images/tnew.gif" alt=""><a href="cfq.html">Call for quotations for various requirments.</a></li>
+                    <li><img src="images/tnew.gif" alt=""><a href="tender.html">Tender Notice Regarding New Street Light Infra at TC-II(Una)</a></li>
+                    <br/>
                     <li><img src="images/tnew.gif" alt=""><a href="/documents/eoi_mess.pdf">Call for expression of interest from reputed companies for offering mess services. </a></li>
+                    <br/>
                     <li><a href="/documents/placement_eoi.pdf">Call for expression of interest from reputed companies for offering placement.</a></li>
+                    <br/>
                     <li><a href="/documents/internship_eoi.pdf">Call for expression of interest for offering internships.</a></li>
+                    <br/>
                     <li><a href="/documents/infrastructure_eoi.pdf">Call for expression of interest to lend built infrastructure support.</a></li>
+                    <br/>
                     <li><a href="/documents/local_holiday_2019.pdf">Local holidays of 2019</a></li>
+                    <br/>
                     <li><a target="_blank" href="http://mhrd.gov.in/visaka/">Vittiya Saksharta Abhiyan</a></li> 
+                    <br/>
                      
                         
                         </marquee>
@@ -191,8 +217,8 @@ $("#footer").load("footer.php");
                 <!-- plan -->
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                     <div><H3 class="index-notification">STUDENT CORNER</H3></div>
-                    <div class="plan-block">
-                        <marquee direction="up" onmouseover="this.stop()" onmouseout="this.start()" scrollamount="3" height="290px;">
+                    <div class="plan-block" style="overflow-y: auto; height: 360px;">
+                       
                             
     <li><a href="/documents/edu_loan.pdf">Education loan to the students of IIITs'</a></li> 
   <li><a target="_blank" href="/documents/notice_revaluation.pdf"> Notice regarding Revaluation of Answer Scripts.</a>
@@ -207,16 +233,16 @@ $("#footer").load("footer.php");
   </li>
   <li><a target="_blank" href="documents/feenotice2018.pdf"> Notice regarding remittance of fees for AY 2018-19</a>
   </li>
-                        </marquee>
+                        
                     </div>
                 </div>
                 <!-- /.plan -->
                 <!-- plan -->
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                    <div><H3  class="index-notification">QUICK LINKS</H3></div>
-                    <div class="plan-block">
+                    <div class="plan-block" style="overflow-y: auto; height: 360px;">
 
-                        <marquee direction="up" onmouseover="this.stop()" onmouseout="this.start()" scrollamount="0" height="290px;">
+                        
                             <li><a target="_blank" href="/documents/reservation_ews.pdf">Reservation for EWS in admissions.</a></li>
                              <li><a href="/documents/calender2019.pdf">Approved Calender for the year 2019 </a></li>
   <li><a href="rti.html">RTI Section </a></li>
@@ -229,7 +255,7 @@ $("#footer").load("footer.php");
       
     
     
-   </marquee>
+   
                    
                     </div>
                 </div>
