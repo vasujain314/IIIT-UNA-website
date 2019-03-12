@@ -185,7 +185,7 @@ button.gsc-search-button
                                 <li class="has-sub"><a href="#">Departments <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
                                     <ul>
 
-                                        <li class="has-sub" style="padding-bottom:50px;"><a href="cse-dept.html">School of Computer Science</a>
+                                        <li class="has-sub" style="padding-bottom:40px;"><a href="cse-dept.html">School of Computing</a>
                                         
                                         <ul>
                                                 <li><a href="cse-dept.html">Home</a></li>
@@ -229,7 +229,7 @@ button.gsc-search-button
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="placement.html">Placements</a></li>
+                                <li><a href="#">Placements</a></li>
                                         <li><a href="recuritment.html">Recuritment</a></li>
                                 <li><a href="tender.html">Tenders</a></li>
                                 <li><a href="gallery.html">Gallery</a></li>
