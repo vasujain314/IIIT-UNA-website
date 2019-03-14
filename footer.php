@@ -22,7 +22,7 @@
     <!-- FontAwesome CSS -->
     <link rel="stylesheet" type="text/css" href="css/fontello.css">
     <link href="css/font-awesome.min.css" rel="stylesheet">
- 
+
 </head>
 <body>
 
@@ -46,7 +46,7 @@ India
         <div class="col-lg-4 align-self-center" style="padding-top: 30px;">
           <div class="text-center align-self-center">
             <div id='printoutPanel'></div>
-        
+
         <div id='myMap' style='width: auto; height: 200px; '></div>
         <script type='text/javascript'>
             function loadMapScenario() {
@@ -69,12 +69,12 @@ India
                 var layer = new Microsoft.Maps.Layer();
                 layer.add([pushpin, polyline]);
                 map.layers.insert(layer);
-                
+
             }
         </script>
 <script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?key=AtzBR8MzztKkXstzT92ik-oi87ZF4kiY94t7a1awKWWD0gnnZVe90AH7QWux7QFL&callback=loadMapScenario' async defer></script>
         </div>
-            
+
         </div>
         <br><br>
         <div class="col-sm-3 col-xs-6"  style="padding-left:4%;">
@@ -93,10 +93,10 @@ India
             <li><a  href="admission.html" class="footer-title"style="font-size=16px;">Admissions</a></li>
             <li><a  href="cse-dept.html" class="footer-title"style="font-size=16px;">Departments</a></li>
             <li><a  href="directordesk.html" class="footer-title"style="font-size=16px;">Director's Desk</a></li>
-            
+
           </ul>
         </div>
-    
+
   </div>
   </div>
   </footer>
@@ -114,34 +114,13 @@ India
                                 </ul>
                         </div> -->
                     </div>
-                    <div class="col-lg-6" align="center">
-                      © Indian Institute of Information Technology, Una , Himachal Pradesh 2018  
-                 
+                    <div class="col-lg-6" align="center" style="color:white;">
+                      © Indian Institute of Information Technology, Una , Himachal Pradesh 2018
+
                     </div>
                 </div>
             <!-- /. tiny-footer -->
 </div>
-   
+
 </body>
 </html>
-
-  
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
