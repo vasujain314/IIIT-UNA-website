@@ -114,7 +114,7 @@ India
                                 </ul>
                         </div> -->
                     </div>
-                    <div class="col-lg-6" align="center" style="color:white;">
+                    <div class="col-lg-6" align="center" style="color:grey;">
                       © Indian Institute of Information Technology, Una , Himachal Pradesh 2018
 
                     </div>
