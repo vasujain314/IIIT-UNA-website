@@ -114,16 +114,16 @@ button.gsc-search-button
                     <div class="logo"  ><a href="index.html" ><img  src="images/oie_18559205hDZHYdK.gif" alt=""></a></div>
                 </div>
                 <div class="col-lg-8 " style="margin-top: 2%;">
-                        <h3 class="main-heading" onload="">Indian Institute of Information Technology,Una</h3>
+                        <h3 class="main-heading" onload="" style="color:red;">Indian Institute of Information Technology Una</h3>
 
 
 
 
-                <h4 class="hindi-title" ><span> भारतीय सूचना
+                <h4 class="hindi-title" style="color:blue;"><span> भारतीय सूचना
                       प्रौद्योगिकी संस्थान ऊना  </span></h4>
 
 
-                    <h4 class="secondary-title">(An Institute Of National Importance Under MHRD)</h4>
+                    <h4 class="secondary-title" >(An Institute Of National Importance Under MHRD)</h4>
                 </div>
                 <div class="col-lg-3">
                    <div class="logos" style="padding-left:3%; ">
@@ -174,8 +174,9 @@ button.gsc-search-button
                                     <ul>
                                         <li><a href="aboutus.html">About IIIT UNA</a></li>
                                         <li><a href="mission.html">Vision &amp; Misson</a></li>
-                                        <li><a href="adminstrative.html">Administration</a></li>
+                                        
                                         <li><a href="directordesk.html">Director's Desk</a></li>
+                                        <li><a href="adminstrative.html">IIITU Office</a></li>
                                         <li><a href="rti.html">RTI</a></li>
                                         <li><a href="campus.html">Campus</a></li>
                                     </ul>
