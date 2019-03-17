@@ -116,7 +116,7 @@ button.gsc-search-button
                 <div class="col-lg-8 " style="margin-top: 2%;">
                         <h3 class="main-heading" onload="">Indian Institute of Information Technology,Una</h3>
 
- 
+
 
 
                 <h4 class="hindi-title" ><span> भारतीय सूचना
@@ -129,8 +129,8 @@ button.gsc-search-button
                    <div class="logos" style="padding-left:3%; ">
                    <br/>
                     <span class="dot">&nbsp;&nbsp;<a title="Facebook" target="_blank" href="https://www.facebook.com/iiituna/"><i aria-hidden="true" class="fa fa-facebook"></i></a></span>&nbsp;&nbsp;&nbsp;
-                    <span class="dot">&nbsp;&nbsp;<a title="Gmail" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-google"></i></a></span>&nbsp;&nbsp;&nbsp;
-                    <span class="dot">&nbsp;&nbsp;<a title="Linkedin" rel="nofollow" target="_blank" href="/"><i aria-hidden="true" class="fa fa-linkedin"></i> </a></span>&nbsp;&nbsp;&nbsp;
+                    <span class="dot">&nbsp;&nbsp;<a title="Gmail" rel="nofollow" target="_blank" href="https://www.gmail.com"><i aria-hidden="true" class="fa fa-google"></i></a></span>&nbsp;&nbsp;&nbsp;
+                    <span class="dot">&nbsp;&nbsp;<a title="Linkedin" rel="nofollow" target="_blank" href="https://www.linkedin.com/school/iiituna/"><i aria-hidden="true" class="fa fa-linkedin"></i> </a></span>&nbsp;&nbsp;&nbsp;
                     <span class="dot">&nbsp;&nbsp;<a title="YouTube" rel="nofollow" target="_blank" href=""><i aria-hidden="true" class="fa fa-youtube"></i> </a></span>
                     </div>
                         <br/>
@@ -185,22 +185,22 @@ button.gsc-search-button
                                 <li class="has-sub"><a href="#">Departments <span style="opacity: 0.6; font-size: 15px;">&or;</span></a>
                                     <ul>
 
-                                        <li class="has-sub" style="padding-bottom:50px;"><a href="cse-dept.html">School of Computer Science</a>
-                                        
+                                        <li class="has-sub" style="padding-bottom:40px;"><a href="cse-dept.html">School of Computing</a>
+
                                         <ul>
                                                 <li><a href="cse-dept.html">Home</a></li>
                                                 <li><a href="cse-aboutus.html">About Us</a></li>
                                                 <li><a href="cse-faculty.html">Faculty</a></li>
                                                 <li><a href="cse-academics.html">Academics</a></li>
                                             </ul>
-                                        
+
                                         </li>
-                                        
 
 
 
 
-                           
+
+
                                         <li class="has-sub"style="padding-bottom:50px;"><a href="ece-dept.html">School Of Electronics </a>
                                         <ul>
                                                 <li><a href="ece-dept.html">Home</a></li>
@@ -229,7 +229,7 @@ button.gsc-search-button
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="placement.html">Placements</a></li>
+                                <li><a href="#">Placements</a></li>
                                         <li><a href="recuritment.html">Recuritment</a></li>
                                 <li><a href="tender.html">Tenders</a></li>
                                 <li><a href="gallery.html">Gallery</a></li>
@@ -237,7 +237,7 @@ button.gsc-search-button
 
 
 
-                                <li><a href="contact-us.html">हिन्दी</a></li>
+                                <li><a href="#">हिन्दी</a></li>
                             </ul>
                         </div>
                     </div>
