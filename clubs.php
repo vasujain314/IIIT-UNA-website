@@ -151,7 +151,31 @@ Our main objective is to encourage open source software,improving coding culture
       <p style="text-align: center; margin-top: 40px;">lorem ipsum loves to play football but on PC.<a href=""> (know more...)</a> </p>
     </div>
   </div>
-<br/>
+
+    
+<div class="row">
+    <div class="col-sm-3 col-xs-12" align="center"><br><br>
+      <img  class="clublogo img-fluid" src="images/evmac%20logo.png">
+    </div>
+    <div class="col-sm-9 col-xs-12"><br>
+      <p style="text-align: center; margin-top: 40px;">EvMac is the Event Management Club of IIIT Una. It organizes all the technical and cultural events of the institute in collaboration with all the other clubs, while managing the discipline, decoration, finances and all other aspects of the given event. 
+EvMac also organizes  various other independent events and competitions all round the year.<br><a href=""> (know more...)</a> </p>
+    </div>
+  </div>
+    
+    <div class="row">
+    <div class="col-sm-3 col-xs-12" align="center"><br><br>
+      <img  class="clublogo img-fluid" src="images/logo2reserve.jpg">
+    </div>
+    <div class="col-sm-9 col-xs-12"><br>
+      <p style="text-align: center; margin-top: 40px;">AMOGH bring to you an assemblage of your college life memories.
+
+Our goal is to provide a platform for budding artists to showcase their creative endeavours, to create a memoir of their college life for students and to create an assortment of the events organised round the year in the college.
+
+With the vision of accentuating the creative side of personnel in a Technical College, and to create a reminiscence of college life hustle and bustle, team AMOGH brings to you.<br><a href="https://www.amoghiiitu.com/" target="_blank"> (know more...)</a> </p>
+    </div>
+  </div>
+<br/><br>
 
 
 
