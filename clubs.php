@@ -84,7 +84,7 @@ $("#footer").load("footer.php");
   <div class="row">
     <div class="col-sm-3 col-xs-12" align="center">
         <br><br>
-      <img style="margin-top: -30px;" class="clublogo img-fluid" src="images/force.jpg">
+        <a href="clubs/Force-IIITU/index.html" target="_blank"><img style="margin-top: -30px;" class="clublogo img-fluid" src="images/force.jpg"></a>
     </div>
     <div class="col-sm-9 col-xs-12">
         <br><br>
@@ -96,7 +96,7 @@ Our main objective is to encourage open source software,improving coding culture
   <br/>
     <div class="row">
     <div class="col-sm-3 col-xs-12" align="center">
-      <img class="clublogo img-fluid" src="images/hash.png">
+        <a href="clubs/team-hash.github.io/index.html" target="_blank"><img class="clublogo img-fluid" src="images/hash.png"></a>
     </div>
     <div class="col-sm-9 col-xs-12">
       <p style="text-align: center; margin-top: 40px;">Technology-that's the middle name of our institute IIIT Una.The technical club of Department of Computer Science TEAM HASH has been started with the objective of development and exchange of relevant knowledge to learn and develop skills in various aspects of programming and become aware of the technological advancements in various spheres of computer science <a href="clubs/team-hash.github.io/index.html" target="_blank"> (know more...)</a> </p>
@@ -105,7 +105,7 @@ Our main objective is to encourage open source software,improving coding culture
 <br/>
  <div class="row">
     <div class="col-sm-3 col-xs-12" align="center"><br>
-      <img style="height: 220px; width: 100%;" class="clublogo img-fluid" src="images/datascience.png">
+        <a href="clubs/data-science-club.github.io/index.html" target="_blank"><img style="height: 220px; width: 100%;" class="clublogo img-fluid" src="images/datascience.png"></a>
     </div>
     <div class="col-sm-9 col-xs-12"><br>
       <p style="text-align: center; margin-top: 40px;">This is the club of IIIT UNA, where we are working for elevating the culture of Machine Learning and Data Science. As we all know that 'AI is the new electricity'. Unlike ever before, Data Science and Artificial Intelligence are on a boom right now and this field is making more progress than many other fields combined. Seeing the ongoing trend, this club focuses on building awareness and sharing knowledge about the same.<a href="clubs/data-science-club.github.io/index.html" target="_blank"> (know more...)</a>  </p>
@@ -116,7 +116,7 @@ Our main objective is to encourage open source software,improving coding culture
 <br/>
 <div class="row">
     <div class="col-sm-3 col-xs-12" align="center"><br>
-      <img style="margin-top: -30px;" class="clublogo img-fluid" src="images/infosec.png">
+        <a href="clubs/infosec-iiitu.github.io/index.html" target="_blank"><img style="margin-top: -30px;" class="clublogo img-fluid" src="images/infosec.png"></a>
     </div>
     <div class="col-sm-9 col-xs-12"><br>
       <p style="text-align: center; margin-top: 40px;">InfoSec Community is an association at Indian Institute of Information Technology, Una which aims at bolstering the Cybersecurity culture among the college students. The basic motive of this community is to train enthusiasts in different areas of Cybersecurity and to encourage them into participating in CTFs happening in different parts of India and worldwide.<a href="clubs/infosec-iiitu.github.io/index.html" target="_blank"> (know more...)</a> </p>
@@ -127,7 +127,7 @@ Our main objective is to encourage open source software,improving coding culture
 <br/>
 <div class="row">  
     <div class="col-sm-3 col-xs-12" align="center">
-      <img style="margin-top: 30px;"  class="clublogo img-fluid" src="images/avesh.png">
+        <a href="clubs/Aavesh-IIITU.github.io/index.html" target="_blank"><img style="margin-top: 30px;"  class="clublogo img-fluid" src="images/avesh.png"></a>
     </div>
     <div class="col-sm-9 col-xs-12">
       <p style="text-align: center; margin-top: 40px;">Aavesh is an electronics society that strives to teach and help students acquire new skills in an era of rapidly evolving technology in the field of electronics and communication engineering. The Society aims to provide potential minds of IIITU a platform to discuss innovative ideas and nurture their skills to tackle real life challenges in the world today and contribute to the technical society through various projects, patents and research publications.<a href="clubs/Aavesh-IIITU.github.io/index.html" target="_blank"> (know more...)</a> </p>
@@ -165,7 +165,7 @@ EvMac also organizes  various other independent events and competitions all roun
     
     <div class="row">
     <div class="col-sm-3 col-xs-12" align="center"><br><br>
-      <img  class="clublogo img-fluid" src="images/logo2reserve.jpg">
+        <a href="https://www.amoghiiitu.com/" target="_blank"><img  class="clublogo img-fluid" src="images/logo2reserve.jpg"></a>
     </div>
     <div class="col-sm-9 col-xs-12"><br>
       <p style="text-align: center; margin-top: 40px;">AMOGH bring to you an assemblage of your college life memories.
