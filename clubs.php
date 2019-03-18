@@ -99,7 +99,7 @@ Our main objective is to encourage open source software,improving coding culture
       <img class="clublogo img-fluid" src="images/hash.png">
     </div>
     <div class="col-sm-9 col-xs-12">
-      <p style="text-align: center; margin-top: 40px;">Technology-that's the middle name of our institute IIIT Una.The technical club of Department of Computer Science TEAM HASH has been started with the objective of development and exchange of relevant knowledge to learn and develop skills in various aspects of programming and become aware of the technological advancements in various spheres of computer science <a href="clubs/Hash-IIITU/index.html" target="_blank"> (know more...)</a> </p>
+      <p style="text-align: center; margin-top: 40px;">Technology-that's the middle name of our institute IIIT Una.The technical club of Department of Computer Science TEAM HASH has been started with the objective of development and exchange of relevant knowledge to learn and develop skills in various aspects of programming and become aware of the technological advancements in various spheres of computer science <a href="clubs/team-hash.github.io/index.html" target="_blank"> (know more...)</a> </p>
     </div>
   </div>
 <br/>
