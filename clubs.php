@@ -165,20 +165,20 @@ EvMac also organizes  various other independent events and competitions all roun
     
     <div class="row">
     <div class="col-sm-3 col-xs-12" align="center"><br><br>
-        <a href="https://www.amoghiiitu.com/" target="_blank"><img  class="clublogo img-fluid" src="images/logo2reserve.jpg"></a>
+        <a href="https://www.amoghiiitu.com/welcome" target="_blank"><img  class="clublogo img-fluid" src="images/logo2reserve.jpg"></a>
     </div>
     <div class="col-sm-9 col-xs-12"><br>
       <p style="text-align: center; margin-top: 40px;">AMOGH bring to you an assemblage of your college life memories.
 
 Our goal is to provide a platform for budding artists to showcase their creative endeavours, to create a memoir of their college life for students and to create an assortment of the events organised round the year in the college.
 
-With the vision of accentuating the creative side of personnel in a Technical College, and to create a reminiscence of college life hustle and bustle, team AMOGH brings to you.<br><a href="https://www.amoghiiitu.com/" target="_blank"> (know more...)</a> </p>
+With the vision of accentuating the creative side of personnel in a Technical College, and to create a reminiscence of college life hustle and bustle, team AMOGH brings to you.<br><a href="https://www.amoghiiitu.com/welcome" target="_blank"> (know more...)</a> </p>
     </div>
   </div>
     <br>
     <div class="row">
     <div class="col-sm-3 col-xs-12" align="center"><br><br>
-        <a href="https://www.amoghiiitu.com/" target="_blank"><img  class="clublogo img-fluid" src="images/WhatsApp%20Image%202019-03-17%20at%2011.21.03%20PM.jpeg"></a>
+        <a href="#"><img  class="clublogo img-fluid" src="images/WhatsApp%20Image%202019-03-17%20at%2011.21.03%20PM.jpeg"></a>
     </div>
     <div class="col-sm-9 col-xs-12"><br>
       <p style="text-align: center; margin-top: 40px;">Impressions is the society responsible for promoting and capturing various cultural and technical events in the institute by means of photography, cinematography and graphic designing.<br><a href="https://www.amoghiiitu.com/" target="_blank"> (know more...)</a> </p>
