@@ -148,7 +148,11 @@ Our main objective is to encourage open source software,improving coding culture
       <img  class="clublogo img-fluid" src="images/sports.jpg">
     </div>
     <div class="col-sm-9 col-xs-12"><br>
-      <p style="text-align: center; margin-top: 40px;">lorem ipsum loves to play football but on PC.<a href=""> (know more...)</a> </p>
+      <p style="text-align: center; margin-top: 0px;">Sports Committee has started its working from the session 2018-19 .
+It is a group of extremely dedicated and talented sportspersons. 
+Be it managing 200 students, booking train tickets, getting permissions done or playing their respective game in a lavishing manner, The Sports Committee does it all in an effortless way.
+Recently our college participated in the Inter-IIIT sports meet held in IIIT Allahabad. We participated in various events such as Cricket,Football, BasketBall,badminton and Athletics . Our lads performed really well and made our presence worth.
+We'll soon be starting our own sports meet in the college where you all can showcase your talent, and we'll be continuing to participate in the Inter-IIIT sports meet in the years to come.<a href=""> (know more...)</a> </p>
     </div>
   </div>
 
@@ -158,7 +162,7 @@ Our main objective is to encourage open source software,improving coding culture
       <img  class="clublogo img-fluid" src="images/evmac%20logo.png">
     </div>
     <div class="col-sm-9 col-xs-12"><br>
-      <p style="text-align: center; margin-top: 40px;">EvMac is the Event Management Club of IIIT Una. It organizes all the technical and cultural events of the institute in collaboration with all the other clubs, while managing the discipline, decoration, finances and all other aspects of the given event. 
+      <p style="text-align: center; margin-top: 20px;">EvMac is the Event Management Club of IIIT Una. It organizes all the technical and cultural events of the institute in collaboration with all the other clubs, while managing the discipline, decoration, finances and all other aspects of the given event. 
 EvMac also organizes  various other independent events and competitions all round the year.<br><a href=""> (know more...)</a> </p>
     </div>
   </div>
@@ -168,7 +172,7 @@ EvMac also organizes  various other independent events and competitions all roun
         <a href="https://www.amoghiiitu.com/welcome" target="_blank"><img  class="clublogo img-fluid" src="images/logo2reserve.jpg"></a>
     </div>
     <div class="col-sm-9 col-xs-12"><br>
-      <p style="text-align: center; margin-top: 40px;">AMOGH bring to you an assemblage of your college life memories.
+      <p style="text-align: center; margin-top: 80px;">AMOGH bring to you an assemblage of your college life memories.
 
 Our goal is to provide a platform for budding artists to showcase their creative endeavours, to create a memoir of their college life for students and to create an assortment of the events organised round the year in the college.
 
