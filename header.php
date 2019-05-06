@@ -156,9 +156,13 @@ button.gsc-search-button
 <gcse:search></gcse:search>
 <br/>
                 </div>
+
                 </div>
+                <div style="float: right;" id="google_translate_element"></div>
             </div>
+
         </div>
+
     <!-- /.top-bar -->
     <!-- header-section-->
     <div class="header-wrapper">
@@ -237,8 +241,7 @@ button.gsc-search-button
 
 
 
-
-                                <li><a href="#">हिन्दी</a></li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -248,6 +251,13 @@ button.gsc-search-button
         </div>
     </div>
         </div>
+        <script type="text/javascript"> 
+function googleTranslateElementInit() { 
+new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element'); 
+} 
+</script> 
+
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
   <script src="js/jquery.min.js" type="text/javascript"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed we -->
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
